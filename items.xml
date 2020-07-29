@@ -9,6 +9,11 @@ Kreuzt ihr an.</example>
    <no x="2">
       <word>das Buch,er</word>
       <meaning>kitap</meaning>
-      <example>Ich habe ein Buch</example>
+      <example>Ich habe ein Buch.</example>
    </no>
+   <no x="3">
+      <word>das Baum,..e</word>
+      <meaning>ağaç</meaning>
+      <example>Der Baum ist niedrig.</example>
+   </no>   
 </language>
