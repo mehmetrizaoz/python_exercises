@@ -10,7 +10,9 @@ random = randint(1, len(list(root)))
 
 for item in lst:
    if (item.get('x') == str(random)):
-      print(item.find('word').text + ": " + item.find('meaning').text + "\n")
+      print(item.find('word').text)
+      input()
+      print(item.find('meaning').text)
       print(item.find('example').text)
 
 
