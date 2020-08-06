@@ -16,4 +16,65 @@ Kreuzt ihr an.</example>
       <meaning>ağaç</meaning>
       <example>Der Baum ist niedrig.</example>
    </no>   
+   <no x="4">
+      <word>ausmachen</word>
+      <meaning>söndürmek</meaning>
+      <example>Du musst deine Zigarette ausmachen.</example>
+   </no> 
+   <no x="5">
+      <word>das Angebot</word>
+      <meaning>teklif</meaning>
+      <example>Schreiben Sie uns und wir machen Ihnen ein Angebot!</example>
+   </no>
+   <no x="6">
+      <word>die Reihenfolge</word>
+      <meaning>sıralama</meaning>
+      <example>Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Brief richtig. </example>
+   </no>  
+   <no x="7">
+      <word>vereinbaren</word>
+      <meaning>kararlaştırmak</meaning>
+      <example>Einen Termin für Dienstag vereinbaren.</example>
+   </no> 
+   <no x="8">
+      <word>verschieben</word>
+      <meaning>ertelemek</meaning>
+      <example>Den Termin von Dienstag auf Freitag verschieben.
+(hat verschoben)</example>
+   </no>  
+   <no x="9">
+      <word>einladen</word>
+      <meaning>davet etmek, çağırmak</meaning>
+      <example>Ich möchte meine Freunde Petra am Freitagabend einladen.</example>
+   </no>
+   <no x="10">
+      <word>absagen</word>
+      <meaning>olmayacağını bildirmek</meaning>
+      <example>Ich möchte den Termin am Mittwoch absagen.</example>
+   </no>
+   <no x="10">
+      <word>schwarz</word>
+      <meaning>siyah</meaning>
+      <example>Das ist ja ganz schwarz.</example>              
+   </no>
+   <no x="11">
+      <word>sonderangebot</word>
+      <meaning>indirim</meaning>
+      <example>Heute gibt es Sonderangebote im Supermarkt.</example>              
+   </no>   
+   <no x="12">
+      <word>das Schwimmbad</word>
+      <meaning>yüzme havuzu</meaning>
+      <example>Wir gehen ins Schwimmbad und dann in die Stadt.</example>              
+   </no> 
+   <no x="13">
+      <word>der Kurz</word>
+      <meaning>kurs</meaning>
+      <example>Zuerst gehe ich in den Deutschkurz und dann zum Arzt.</example>              
+   </no>
+   <no x="14">
+      <word>süchtig nach</word>
+      <meaning>e bağımlı</meaning>
+      <example>Ich bin süchtig nach Schkolade.</example>              
+   </no>    
 </language>
