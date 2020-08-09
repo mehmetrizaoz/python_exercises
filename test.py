@@ -3,7 +3,13 @@ import sys, getopt
 from xml.dom import minidom
 from random import randint
 
-tree = ET.parse('items.xml')
+print("1-Almanca\n2-İngilizce")
+long_code = input()
+if long_code == "1":
+   tree = ET.parse('almanca.xml')
+else:
+   tree = ET.parse('ingilizce.xml')
+
 root = tree.getroot()
 lst = root.findall('no')
 
