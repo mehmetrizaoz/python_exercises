@@ -1,14 +1,64 @@
 <language>
    <no x="1">
-      <word>book</word>
-      <meaning>kitap</meaning>
-      <example>This is a book.</example>
+      <word>sip</word>
+      <meaning>yudumlamak</meaning>
+      <example></example>
    </no>
    <no x="2">
-      <word>pillow</word>
-      <meaning>yastık</meaning>
-      <example>A soft piilow will be better.</example>
+      <word>intangible</word>
+      <meaning>soyut, fiziksel varlığı olmayan</meaning>
+      <example></example>
    </no>
+   <no x="3">
+      <word>down</word>
+      <meaning>birden dikip içip bitirmek</meaning>
+      <example></example>
+   </no>
+   <no x="4">
+      <word>crunch</word>
+      <meaning>gürültülü şekilde yemek</meaning>
+      <example></example>
+   </no>   
+   <no x="5">
+      <word>purposeful</word>
+      <meaning>bir amaca yönelik</meaning>
+      <example></example>
+   </no>   
+   <no x="6">
+      <word>mumble</word>
+      <meaning>mırıldanmak</meaning>
+      <example></example>
+   </no>   
+   <no x="7">
+      <word>yell</word>
+      <meaning>bağırmak</meaning>
+      <example></example>
+   </no>    
+   <no x="8">
+      <word>glimpse</word>
+      <meaning>göz atmak</meaning>
+      <example></example>
+   </no>    
+   <no x="9">
+      <word>embrace</word>
+      <meaning>benimsemek</meaning>
+      <example></example>
+   </no>   
+   <no x="10">
+      <word></word>
+      <meaning></meaning>
+      <example></example>
+   </no> 
+   <no x="11">
+      <word>stride</word>
+      <meaning>emin ve uzun adımlarla yürümek</meaning>
+      <example></example>
+   </no>       
+   <no x="12">
+      <word>arrogant</word>
+      <meaning>kibirli</meaning>
+      <example></example>
+   </no>       
 </language>
 
 
