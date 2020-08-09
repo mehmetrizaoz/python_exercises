@@ -11,12 +11,15 @@ var = 1
 while var == 1:
    random = randint(1, len(list(root)))
    for item in lst:
-      if (item.get('x') == str(random)):
+      if (item.get('x') == str(random)):              
+         print("\n\n**********************************************")
          print(item.find('word').text)
+         print("----------------------------------------")
          input()
          print(item.find('meaning').text)
+         print("----------------------------------------")         
          print(item.find('example').text)
-         print("***********************")
+         print("**********************************************\n\n\n\n")
 
 
 
