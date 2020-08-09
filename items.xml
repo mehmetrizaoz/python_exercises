@@ -17,7 +17,7 @@ Kreuzt ihr an.</example>
       <example>Der Baum ist niedrig.</example>
    </no>   
    <no x="4">
-      <word>ausmachen, kapatmak</word>
+      <word>ausmachen, hat ausgemacht</word>
       <meaning>söndürmek</meaning>
       <example>Du musst deine Zigarette ausmachen.
 Könten Sie bitte dein Handy ausmachen?</example>
@@ -94,7 +94,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Hat das Flugzeug Verspätung?</example>              
    </no>  
    <no x="18">
-      <word>abfliegen (ist abgeflogen)</word>
+      <word>abfliegen - ist abgeflogen</word>
       <meaning>havalanmak, kalkmak</meaning>
       <example>Wann fliegt dein Flugzeug ab?</example>              
    </no>    
@@ -104,7 +104,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Gibt es eine Ermäßigung für Jugendliche?</example>             
    </no>    
    <no x="20">
-      <word>abholen</word>
+      <word>abholen - hat abgeholt</word>
       <meaning>karşılamak</meaning>
       <example>Holst du mich am Flughafen ab?</example>              
    </no>    
@@ -119,7 +119,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Dann gehe ich noch zu dem Kiosk dort drüben und kaufe eine Zeitung.</example>              
    </no>   
    <no x="23">
-      <word>abfahren (ist abgefahren)</word>
+      <word>abfahren - ist abgefahren</word>
       <meaning>kalkmak</meaning>
       <example>Wo fährt der Zug nach Berlin ab?</example>              
    </no>  
@@ -144,7 +144,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example></example>              
    </no> 
    <no x="28">
-      <word>vorbeikommen</word>
+      <word>vorbeikommen - ist vorbeigekommen</word>
       <meaning>uğramak</meaning>
       <example>Wann kannst du heute Abend vorbeikommen?</example>              
    </no> 
@@ -164,12 +164,12 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Wann hast du den Führerschein gemacht?</example>              
    </no> 
    <no x="32">
-      <word>anmachen</word>
+      <word>anmachen - hat angemacht</word>
       <meaning>açmak</meaning>
       <example>Das Radio anmachen.</example>              
    </no> 
    <no x="33">
-      <word>aufmachen</word>
+      <word>aufmachen - hat aufgemacht</word>
       <meaning>açmak</meaning>
       <example>die Tür aufmachen</example>              
    </no>
@@ -179,7 +179,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Hast du den Herd ausgemacht?</example>              
    </no>
    <no x="35">
-      <word>zumachen</word>
+      <word>zumachen - hat zugemacht</word>
       <meaning>açmak</meaning>
       <example>die Tür zumachen</example>              
    </no>   
@@ -189,7 +189,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>lesen Sie laut.</example>              
    </no>
    <no x="37">
-      <word>besichtigen</word>
+      <word>besichtigen - hat besichtigt</word>
       <meaning>gezmek, dolaşmak</meaning>
       <example>Sie sind für eine Woche als Tourist in Freiburg und möchten die Stadt mit dem Fahrrad besichtigen.</example>              
    </no>  
@@ -204,7 +204,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Fahrradverleih</example>              
    </no>                               
    <no x="40">
-      <word>erledigen</word>
+      <word>erledigen - hat erledigt</word>
       <meaning>halletmek, yerine getirmek</meaning>
       <example>Student mit Pkw erledigt alle Ihre Einkäufe</example>              
    </no> 
@@ -218,6 +218,26 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>bununla</meaning>
       <example>Die Mobil-Disco - damit Ifr Fest zur Party wird.</example>              
    </no>   
+   <no x="42">
+      <word>anbieten - hat angeboten</word>
+      <meaning>sunmak, hizmet vermek</meaning>
+      <example>Können Sie auch einen Service anbieten? Schreiben Sie eine Anzeige.</example>              
+   </no> 
+   <no x="43">
+      <word>der Drucker</word>
+      <meaning>yazıcı</meaning>
+      <example>Mein Drucker ist kaputt.</example>              
+   </no> 
+   <no x="43">
+      <word>die Gebrauchsanweisung</word>
+      <meaning>kullanma kılavuzu</meaning>
+      <example>Sie wollen wissen, wie der Anrufbeantworter funktionert? Dann lesen Sie doch die Gebrauchsanweisung.</example>              
+   </no> 
+   <no x="44">
+      <word>klasse</word>
+      <meaning>harika, birinci sınıf</meaning>
+      <example>Der Mantel finde ich klasse.</example>              
+   </no>          
 </language>
 
 
