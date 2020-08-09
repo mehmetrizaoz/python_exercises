@@ -17,9 +17,10 @@ Kreuzt ihr an.</example>
       <example>Der Baum ist niedrig.</example>
    </no>   
    <no x="4">
-      <word>ausmachen</word>
+      <word>ausmachen, kapatmak</word>
       <meaning>söndürmek</meaning>
-      <example>Du musst deine Zigarette ausmachen.</example>
+      <example>Du musst deine Zigarette ausmachen.
+Könten Sie bitte dein Handy ausmachen?</example>
    </no> 
    <no x="5">
       <word>das Angebot</word>
@@ -76,5 +77,148 @@ Kreuzt ihr an.</example>
       <word>süchtig nach</word>
       <meaning>e bağımlı</meaning>
       <example>Ich bin süchtig nach Schkolade.</example>              
+   </no> 
+   <no x="15">
+      <word>die Ankunft</word>
+      <meaning>varış</meaning>
+      <example></example>              
+   </no> 
+   <no x="16">
+      <word>die Abfahrt</word>
+      <meaning>kalkış</meaning>
+      <example></example>              
+   </no> 
+   <no x="17">
+      <word>die Verspätung</word>
+      <meaning>rötar</meaning>
+      <example>Hat das Flugzeug Verspätung?</example>              
+   </no>  
+   <no x="18">
+      <word>abfliegen (ist abgeflogen)</word>
+      <meaning>havalanmak, kalkmak</meaning>
+      <example>Wann fliegt dein Flugzeug ab?</example>              
    </no>    
+   <no x="19">
+      <word>die Ermäßigung</word>
+      <meaning>indirim</meaning>
+      <example>Gibt es eine Ermäßigung für Jugendliche?</example>             
+   </no>    
+   <no x="20">
+      <word>abholen</word>
+      <meaning>karşılamak</meaning>
+      <example>Holst du mich am Flughafen ab?</example>              
+   </no>    
+   <no x="21">
+      <word>die Bushaltestelle</word>
+      <meaning>otobüs durağı</meaning>
+      <example>Wo ist denn hier eine Bushaltestelle?</example>              
+   </no> 
+   <no x="22">
+      <word>der Kiosk</word>
+      <meaning>küçük satış kulübesi</meaning>
+      <example>Dann gehe ich noch zu dem Kiosk dort drüben und kaufe eine Zeitung.</example>              
+   </no>   
+   <no x="23">
+      <word>abfahren (ist abgefahren)</word>
+      <meaning>kalkmak</meaning>
+      <example>Wo fährt der Zug nach Berlin ab?</example>              
+   </no>  
+   <no x="24">
+      <word>der Buchladen</word>
+      <meaning>kitapçı dükkanı</meaning>
+      <example>Wo gibt es hier in der Nähe einen Buchladen?</example>              
+   </no> 
+   <no x="25">
+      <word>der Imbiss</word>
+      <meaning>hafif yemek</meaning>
+      <example>Gibt es hier einen Imbiss?</example>              
+   </no>                           
+   <no x="26">
+      <word>der Anschluss</word>
+      <meaning>aktarma</meaning>
+      <example>Um 11.42 Uhr haben Sie dann Anschluss nach Neuss auf Gleis sieben.</example>              
+   </no>                           
+   <no x="27">
+      <word>der LKW</word>
+      <meaning>kamyon</meaning>
+      <example></example>              
+   </no> 
+   <no x="28">
+      <word>vorbeikommen</word>
+      <meaning>uğramak</meaning>
+      <example>Wann kannst du heute Abend vorbeikommen?</example>              
+   </no> 
+   <no x="29">
+      <word>der Kühlschrank</word>
+      <meaning>buzdolabı</meaning>
+      <example>Wann haben Sie Ihren Kühlschrank gekauft?</example>              
+   </no>
+   <no x="30">
+      <word>die Reparatur</word>
+      <meaning>tamir</meaning>
+      <example>Wie lange brauchen Sie für die Reparatur?</example>              
+   </no> 
+   <no x="31">
+      <word>der Führerschein</word>
+      <meaning>ehliyet</meaning>
+      <example>Wann hast du den Führerschein gemacht?</example>              
+   </no> 
+   <no x="32">
+      <word>anmachen</word>
+      <meaning>açmak</meaning>
+      <example>Das Radio anmachen.</example>              
+   </no> 
+   <no x="33">
+      <word>aufmachen</word>
+      <meaning>açmak</meaning>
+      <example>die Tür aufmachen</example>              
+   </no>
+   <no x="34">
+      <word>der Herd</word>
+      <meaning>ocak</meaning>
+      <example>Hast du den Herd ausgemacht?</example>              
+   </no>
+   <no x="35">
+      <word>zumachen</word>
+      <meaning>açmak</meaning>
+      <example>die Tür zumachen</example>              
+   </no>   
+   <no x="36">
+      <word>laut</word>
+      <meaning>yüksek sesle</meaning>
+      <example>lesen Sie laut.</example>              
+   </no>
+   <no x="37">
+      <word>besichtigen</word>
+      <meaning>gezmek, dolaşmak</meaning>
+      <example>Sie sind für eine Woche als Tourist in Freiburg und möchten die Stadt mit dem Fahrrad besichtigen.</example>              
+   </no>  
+   <no x="38">
+      <word>passend</word>
+      <meaning>uygun</meaning>
+      <example>Wir haben das passende Leihrad für Sie.</example>              
+   </no>                               
+   <no x="39">
+      <word>der Verleih</word>
+      <meaning>kiralama</meaning>
+      <example>Fahrradverleih</example>              
+   </no>                               
+   <no x="40">
+      <word>erledigen</word>
+      <meaning>halletmek, yerine getirmek</meaning>
+      <example>Student mit Pkw erledigt alle Ihre Einkäufe</example>              
+   </no> 
+   <no x="40">
+      <word>das Erlebnis</word>
+      <meaning>macera</meaning>
+      <example>So wird jede Party ein Erlebnis!</example>              
+   </no>    
+   <no x="41">
+      <word>damit</word>
+      <meaning>bununla</meaning>
+      <example>Die Mobil-Disco - damit Ifr Fest zur Party wird.</example>              
+   </no>   
 </language>
+
+
+
