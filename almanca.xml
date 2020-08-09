@@ -33,7 +33,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Brief richtig. </example>
    </no>  
    <no x="7">
-      <word>vereinbaren</word>
+      <word>vereinbaren - hat vereinbart</word>
       <meaning>kararlaştırmak</meaning>
       <example>Einen Termin für Dienstag vereinbaren.</example>
    </no> 
@@ -237,7 +237,67 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <word>klasse</word>
       <meaning>harika, birinci sınıf</meaning>
       <example>Der Mantel finde ich klasse.</example>              
-   </no>          
+   </no>
+   <no x="45">
+      <word>hilfstbereit</word>
+      <meaning>yardıma hazır</meaning>
+      <example>Sie ist eine starke Frau und immer hilfsbereit.</example>              
+   </no>  
+   <no x="46">
+      <word>emanzipiert</word>
+      <meaning>özgürlüğünü kazanmış</meaning>
+      <example>Sie ist ein modernes und emanzipiertes Mädchen.</example>              
+   </no>  
+   <no x="47">
+      <word>sich vorbereiten - hat vorbereitet</word>
+      <meaning>hazırlanmak</meaning>
+      <example>Er hat die Schule beendet und bereitet sich auf sein Studium vor.</example>              
+   </no>                
+   <no x="48">
+      <word>wie</word>
+      <meaning>gibi</meaning>
+      <example>Sie liebt wie sein Vater die Natur.</example>              
+   </no> 
+   <no x="49">
+      <word>sich kümmern um - hat gekümmert</word>
+      <meaning>e bakmak</meaning>
+      <example>Sie kümmert sich besonders um die Familie und die Haushalt.</example>              
+   </no>
+   <no x="50">
+      <word>krachen - ist gekracht</word>
+      <meaning>gümbürdemek</meaning>
+      <example>Im Wohnzimmer kracht ein Schuss und noch einer!</example>              
+   </no> 
+   <no x="51">
+      <word>das ist meine Sache</word>
+      <meaning>bu benim bileceğim iş</meaning>
+      <example>Schißen, das ist nicht meine Sache.</example>              
+   </no>       
+   <no x="52">
+      <word>schißen - hat geschossen</word>
+      <meaning>ateş etmek</meaning>
+      <example></example>              
+   </no>       
+   <no x="53">
+      <word>die Tradition</word>
+      <meaning>gelenek</meaning>
+      <example>Hör mal, das ist eine Tradition.</example>              
+   </no>   
+   <no x="54">
+      <word>die Pazifismus</word>
+      <meaning>pasifizm</meaning>
+      <example>Pazifismus, gegen Gewalt, gegen Krieg, gegen diesen SChießen.</example>              
+   </no> 
+   <no x="55">
+      <word>friedlich</word>
+      <meaning>barışçıl</meaning>
+      <example>Wir sind ein friedlicher Verein, das ist doch nur Sport.</example>              
+   </no>
+   <no x="56">
+      <word>wird immer lauter</word>
+      <meaning>sesini yükseltmek</meaning>
+      <example>Rosi wird immer lauter end ihr Vater auch.</example>              
+   </no>              
 </language>
 
 
