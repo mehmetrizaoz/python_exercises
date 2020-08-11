@@ -398,6 +398,51 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>çıkış</meaning>
       <example>Wo ist denn der Ausgang?</example>              
    </no>    
+   <no x="77">
+      <word>pro</word>
+      <meaning>başına</meaning>
+      <example>Im Moment zwei Stunden, aber in Moment drei Stunden pro Tag.</example>              
+   </no> 
+   <no x="78">
+      <word>kennen - hat gekannt</word>
+      <meaning>tanımak, bilmek</meaning>
+      <example>Ich kenne hier in der Nähe ein gutes Cafe.</example>              
+   </no> 
+   <no x="79">
+      <word>abgeben</word>
+      <meaning>teslim etmek</meaning>
+      <example>Du musst den Zimmerschlüssel an der Rezeption abgeben.</example>              
+   </no>
+   <no x="80">
+      <word>der Schield</word>
+      <meaning>tabela</meaning>
+      <example>Sehen Sie das Schield dort nicht?</example>              
+   </no>   
+   <no x="81">
+      <word>reisen - ist gereist</word>
+      <meaning>seyahat etmek</meaning>
+      <example>Er ist schon in viele Länder gereist.</example>              
+   </no>  
+   <no x="82">
+      <word>trinken - hat getrunken</word>
+      <meaning>içmek</meaning>
+      <example>Ihr habt getrunken.</example>              
+   </no>      
+   <no x="83">
+      <word>wann</word>
+      <meaning>ne zaman</meaning>
+      <example>Wann macht ihr Urlaub?</example>              
+   </no> 
+   <no x="84">
+      <word>der Unfall</word>
+      <meaning>kaza</meaning>
+      <example>Ich hatte einen Unfall.</example>              
+   </no>   
+   <no x="85">
+      <word>da</word>
+      <meaning>orada</meaning>
+      <example>Welchen Pullover findest du besser, den da oder den hier?</example>              
+   </no>        
 </language>
 
 
