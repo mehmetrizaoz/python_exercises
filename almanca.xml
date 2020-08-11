@@ -44,7 +44,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
 (hat verschoben)</example>
    </no>  
    <no x="9">
-      <word>einladen</word>
+      <word>einladen - hat eingeladen</word>
       <meaning>davet etmek, çağırmak</meaning>
       <example>Ich möchte meine Freunde Petra am Freitagabend einladen.</example>
    </no>
@@ -298,6 +298,106 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>sesini yükseltmek</meaning>
       <example>Rosi wird immer lauter end ihr Vater auch.</example>              
    </no>              
+   <no x="57">
+      <word>leihen - hat geliehen</word>
+      <meaning>ödünç vermek</meaning>
+      <example>Das Kleid gehört Mira, Mira hat es Rosa geliehen.</example>              
+   </no>              
+   <no x="58">
+      <word>kochen</word>
+      <meaning>yemek pişirmek</meaning>
+      <example>Sie kocht gern.</example>              
+   </no>              
+   <no x="59">
+      <word>besonders</word>
+      <meaning>özellikler</meaning>
+      <example>Was schmect Ihnen besonders gut?</example>              
+   </no>
+   <no x="60">
+      <word>jeweils</word>
+      <meaning>her defasında</meaning>
+      <example>Schreiben Sie jeweils vier Sätze.</example>              
+   </no>
+   <no x="61">
+      <word>dabei</word>
+      <meaning>aynı anda</meaning>
+      <example>Aber können Sie auch rückwärts fahren und dabei Geige spielen?</example>              
+   </no>      
+   <no x="62">
+      <word>die Pizza</word>
+      <meaning>pizza</meaning>
+      <example>Welche Pizza möchtest du lieber?</example>              
+   </no>
+   <no x="63">
+      <word>anprobieren - hat anprobiert</word>
+      <meaning>prova etmek, denemek</meaning>
+      <example>Wo kann ich den Rock anprobieren?</example>              
+   </no>
+   <no x="64">
+      <word>Es gibt ...</word>
+      <meaning>var</meaning>
+      <example>Gibt es den Pullover auch in Weiß?</example>              
+   </no>   
+   <no x="65">
+      <word>der Gürtel</word>
+      <meaning>kemer</meaning>
+      <example></example>              
+   </no>  
+   <no x="66">
+      <word>täglich</word>
+      <meaning>hergün</meaning>
+      <example>Diese Tabletten müssen Sie dreimal täglich nach dem Essen nehmen.</example>              
+   </no> 
+   <no x="67">
+      <word>sich treffen</word>
+      <meaning>buluşmak</meaning>
+      <example>Treffen wir uns morgen um sechs Uhr am Bahnhof?</example>              
+   </no>            
+   <no x="68">
+      <word>bestimmen - hat bestimmt</word>
+      <meaning>belirlemek</meaning>
+      <example>Wer bestimmen die Zeit?</example>              
+   </no>  
+   <no x="69">
+      <word>unterstreichen - hat unterstrichen</word>
+      <meaning>altını çizmek</meaning>
+      <example>Schreiben Sie die unterstrichenen Sätze mit er - ihn - sie.</example>              
+   </no>   
+   <no x="70">
+      <word>verbinden - hat verbunden</word>
+      <meaning>birleştirmek, bağlamak</meaning>
+      <example>Verbinden Sie die Sätze mit und - oder - aber - denn.</example>              
+   </no>  
+   <no x="71">
+      <word>lieber</word>
+      <meaning>tercihen</meaning>
+      <example>Trinkst du einen Kafee oder möchtest du lieber einen Tee?</example>              
+   </no>    
+   <no x="72">
+      <word>feiern - hat gefeiert</word>
+      <meaning>kutlamak</meaning>
+      <example>In Deutschland feiern junge Leute Silvester meistens mit Freunden oder auch mit der Familie.</example>              
+   </no>       
+   <no x="73">
+      <word>meistens</word>
+      <meaning>genellikle</meaning>
+      <example></example>              
+   </no>    
+   <no x="74">
+      <word>das Feuerwerk</word>
+      <meaning>fişek eğlenceleri</meaning>
+      <example></example>              
+   </no> 
+   <no x="75">
+      <word>anrufen - hat angerufen</word>
+      <meaning>telefon etmek</meaning>
+      <example>Hast du den Arzt angerufen?</example>              
+   </no>       
+   <no x="76">
+      <word>der Ausgang</word>
+      <meaning>çıkış</meaning>
+      <example>Wo ist denn der Ausgang?</example>              
+   </no>    
 </language>
 
 

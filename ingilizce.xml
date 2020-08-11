@@ -58,7 +58,17 @@
       <word>arrogant</word>
       <meaning>kibirli</meaning>
       <example></example>
-   </no>       
+   </no> 
+   <no x="13">
+      <word>narrate</word>
+      <meaning>anlatmak, hikaye etmek</meaning>
+      <example>I want to narrate the adventurous story of my early life.</example>
+   </no>
+   <no x="14">
+      <word>exile</word>
+      <meaning>sürgün etmek</meaning>
+      <example>Exiled from London</example>
+   </no>           
 </language>
 
 
