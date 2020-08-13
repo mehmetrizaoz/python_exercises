@@ -68,7 +68,27 @@
       <word>exile</word>
       <meaning>sürgün etmek</meaning>
       <example>Exiled from London</example>
-   </no>           
+   </no>
+   <no x="15">
+      <word>displeased</word>
+      <meaning></meaning>
+      <example>He never used a word in vain, and he never got really angry, but when he was displeased, he spoke in a brusque manner.</example>
+   </no>
+   <no x="16">
+      <word>successor</word>
+      <meaning>takipçi, halef, varis</meaning>
+      <example>His father wanted him to become his successor in the family business.</example>
+   </no>                 
+   <no x="17">
+      <word>liberty</word>
+      <meaning>özgürlük</meaning>
+      <example>I will never sell my liberty for gold.</example>
+   </no>
+   <no x="18">
+      <word>obstinate</word>
+      <meaning>dik başlı, inatçı</meaning>
+      <example>As I was very obstinate, ..</example>
+   </no>   
 </language>
 
 

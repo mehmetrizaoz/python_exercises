@@ -1,449 +1,688 @@
 <language>
-   <no x="1">
+  <no x="1">
       <word>ankreuzen</word>
       <meaning>çarpı ile işaretlemek</meaning>
       <example>Wir haben angekreuzt.
 Kreuze an.
 Kreuzt ihr an.</example>
-   </no>
-   <no x="2">
+  </no>
+  <no x="2">
       <word>das Buch,er</word>
       <meaning>kitap</meaning>
       <example>Ich habe ein Buch.</example>
-   </no>
-   <no x="3">
+  </no>
+  <no x="3">
       <word>das Baum,..e</word>
       <meaning>ağaç</meaning>
       <example>Der Baum ist niedrig.</example>
-   </no>   
-   <no x="4">
+  </no>   
+  <no x="4">
       <word>ausmachen, hat ausgemacht</word>
       <meaning>söndürmek</meaning>
       <example>Du musst deine Zigarette ausmachen.
 Könten Sie bitte dein Handy ausmachen?</example>
-   </no> 
-   <no x="5">
+  </no> 
+  <no x="5">
       <word>das Angebot</word>
       <meaning>teklif</meaning>
       <example>Schreiben Sie uns und wir machen Ihnen ein Angebot!</example>
-   </no>
-   <no x="6">
+  </no>
+  <no x="6">
       <word>die Reihenfolge</word>
       <meaning>sıralama</meaning>
       <example>Bringen Sie die Wörter in die richtige Reihenfolge und schreiben Sie den Brief richtig. </example>
-   </no>  
-   <no x="7">
+  </no>  
+  <no x="7">
       <word>vereinbaren - hat vereinbart</word>
       <meaning>kararlaştırmak</meaning>
       <example>Einen Termin für Dienstag vereinbaren.</example>
-   </no> 
-   <no x="8">
+  </no> 
+  <no x="8">
       <word>verschieben</word>
       <meaning>ertelemek</meaning>
       <example>Den Termin von Dienstag auf Freitag verschieben.
 (hat verschoben)</example>
-   </no>  
-   <no x="9">
+  </no>  
+  <no x="9">
       <word>einladen - hat eingeladen</word>
       <meaning>davet etmek, çağırmak</meaning>
       <example>Ich möchte meine Freunde Petra am Freitagabend einladen.</example>
-   </no>
-   <no x="10">
+  </no>
+  <no x="10">
       <word>absagen</word>
       <meaning>olmayacağını bildirmek</meaning>
       <example>Ich möchte den Termin am Mittwoch absagen.</example>
-   </no>
-   <no x="10">
+  </no>
+  <no x="10">
       <word>schwarz</word>
       <meaning>siyah</meaning>
-      <example>Das ist ja ganz schwarz.</example>              
-   </no>
-   <no x="11">
+      <example>Das ist ja ganz schwarz.</example>
+  </no>
+  <no x="11">
       <word>sonderangebot</word>
       <meaning>indirim</meaning>
-      <example>Heute gibt es Sonderangebote im Supermarkt.</example>              
-   </no>   
-   <no x="12">
+      <example>Heute gibt es Sonderangebote im Supermarkt.</example>
+  </no>   
+  <no x="12">
       <word>das Schwimmbad</word>
       <meaning>yüzme havuzu</meaning>
-      <example>Wir gehen ins Schwimmbad und dann in die Stadt.</example>              
-   </no> 
-   <no x="13">
+      <example>Wir gehen ins Schwimmbad und dann in die Stadt.</example>
+  </no> 
+  <no x="13">
       <word>der Kurz</word>
       <meaning>kurs</meaning>
-      <example>Zuerst gehe ich in den Deutschkurz und dann zum Arzt.</example>              
-   </no>
-   <no x="14">
+      <example>Zuerst gehe ich in den Deutschkurz und dann zum Arzt.</example>
+  </no>
+  <no x="14">
       <word>süchtig nach</word>
       <meaning>e bağımlı</meaning>
-      <example>Ich bin süchtig nach Schkolade.</example>              
-   </no> 
-   <no x="15">
+      <example>Ich bin süchtig nach Schkolade.</example>
+  </no> 
+  <no x="15">
       <word>die Ankunft</word>
       <meaning>varış</meaning>
-      <example></example>              
-   </no> 
-   <no x="16">
+      <example></example>
+  </no> 
+  <no x="16">
       <word>die Abfahrt</word>
       <meaning>kalkış</meaning>
-      <example></example>              
-   </no> 
-   <no x="17">
+      <example></example>
+  </no> 
+  <no x="17">
       <word>die Verspätung</word>
       <meaning>rötar</meaning>
-      <example>Hat das Flugzeug Verspätung?</example>              
-   </no>  
-   <no x="18">
+      <example>Hat das Flugzeug Verspätung?</example>
+  </no>  
+  <no x="18">
       <word>abfliegen - ist abgeflogen</word>
       <meaning>havalanmak, kalkmak</meaning>
-      <example>Wann fliegt dein Flugzeug ab?</example>              
-   </no>    
-   <no x="19">
+      <example>Wann fliegt dein Flugzeug ab?</example>
+  </no>    
+  <no x="19">
       <word>die Ermäßigung</word>
       <meaning>indirim</meaning>
       <example>Gibt es eine Ermäßigung für Jugendliche?</example>             
-   </no>    
-   <no x="20">
+  </no>    
+  <no x="20">
       <word>abholen - hat abgeholt</word>
       <meaning>karşılamak</meaning>
-      <example>Holst du mich am Flughafen ab?</example>              
-   </no>    
-   <no x="21">
+      <example>Holst du mich am Flughafen ab?</example>
+  </no>    
+  <no x="21">
       <word>die Bushaltestelle</word>
       <meaning>otobüs durağı</meaning>
-      <example>Wo ist denn hier eine Bushaltestelle?</example>              
-   </no> 
-   <no x="22">
+      <example>Wo ist denn hier eine Bushaltestelle?</example>
+  </no> 
+  <no x="22">
       <word>der Kiosk</word>
       <meaning>küçük satış kulübesi</meaning>
-      <example>Dann gehe ich noch zu dem Kiosk dort drüben und kaufe eine Zeitung.</example>              
-   </no>   
-   <no x="23">
+      <example>Dann gehe ich noch zu dem Kiosk dort drüben und kaufe eine Zeitung.</example>
+  </no>   
+  <no x="23">
       <word>abfahren - ist abgefahren</word>
       <meaning>kalkmak</meaning>
-      <example>Wo fährt der Zug nach Berlin ab?</example>              
-   </no>  
-   <no x="24">
+      <example>Wo fährt der Zug nach Berlin ab?</example>
+  </no>  
+  <no x="24">
       <word>der Buchladen</word>
       <meaning>kitapçı dükkanı</meaning>
-      <example>Wo gibt es hier in der Nähe einen Buchladen?</example>              
-   </no> 
-   <no x="25">
+      <example>Wo gibt es hier in der Nähe einen Buchladen?</example>
+  </no> 
+  <no x="25">
       <word>der Imbiss</word>
       <meaning>hafif yemek</meaning>
-      <example>Gibt es hier einen Imbiss?</example>              
-   </no>                           
-   <no x="26">
+      <example>Gibt es hier einen Imbiss?</example>
+  </no>             
+  <no x="26">
       <word>der Anschluss</word>
       <meaning>aktarma</meaning>
-      <example>Um 11.42 Uhr haben Sie dann Anschluss nach Neuss auf Gleis sieben.</example>              
-   </no>                           
-   <no x="27">
+      <example>Um 11:00 Uhr haben Sie dann Anschluss nach Neuss auf Gleis sieben.</example>
+  </no>             
+  <no x="27">
       <word>der LKW</word>
       <meaning>kamyon</meaning>
-      <example></example>              
-   </no> 
-   <no x="28">
+      <example></example>
+  </no> 
+  <no x="28">
       <word>vorbeikommen - ist vorbeigekommen</word>
       <meaning>uğramak</meaning>
-      <example>Wann kannst du heute Abend vorbeikommen?</example>              
-   </no> 
-   <no x="29">
+      <example>Wann kannst du heute Abend vorbeikommen?</example>
+  </no> 
+  <no x="29">
       <word>der Kühlschrank</word>
       <meaning>buzdolabı</meaning>
-      <example>Wann haben Sie Ihren Kühlschrank gekauft?</example>              
-   </no>
-   <no x="30">
+      <example>Wann haben Sie Ihren Kühlschrank gekauft?</example>
+  </no>
+  <no x="30">
       <word>die Reparatur</word>
       <meaning>tamir</meaning>
-      <example>Wie lange brauchen Sie für die Reparatur?</example>              
-   </no> 
-   <no x="31">
+      <example>Wie lange brauchen Sie für die Reparatur?</example>
+  </no> 
+  <no x="31">
       <word>der Führerschein</word>
       <meaning>ehliyet</meaning>
-      <example>Wann hast du den Führerschein gemacht?</example>              
-   </no> 
-   <no x="32">
+      <example>Wann hast du den Führerschein gemacht?</example>
+  </no> 
+  <no x="32">
       <word>anmachen - hat angemacht</word>
       <meaning>açmak</meaning>
-      <example>Das Radio anmachen.</example>              
-   </no> 
-   <no x="33">
+      <example>Das Radio anmachen.</example>
+  </no> 
+  <no x="33">
       <word>aufmachen - hat aufgemacht</word>
       <meaning>açmak</meaning>
-      <example>die Tür aufmachen</example>              
-   </no>
-   <no x="34">
+      <example>die Tür aufmachen</example>
+  </no>
+  <no x="34">
       <word>der Herd</word>
       <meaning>ocak</meaning>
-      <example>Hast du den Herd ausgemacht?</example>              
-   </no>
-   <no x="35">
+      <example>Hast du den Herd ausgemacht?</example>
+  </no>
+  <no x="35">
       <word>zumachen - hat zugemacht</word>
       <meaning>açmak</meaning>
-      <example>die Tür zumachen</example>              
-   </no>   
-   <no x="36">
+      <example>die Tür zumachen</example>
+  </no>   
+  <no x="36">
       <word>laut</word>
       <meaning>yüksek sesle</meaning>
-      <example>lesen Sie laut.</example>              
-   </no>
-   <no x="37">
+      <example>lesen Sie laut.</example>
+  </no>
+  <no x="37">
       <word>besichtigen - hat besichtigt</word>
       <meaning>gezmek, dolaşmak</meaning>
-      <example>Sie sind für eine Woche als Tourist in Freiburg und möchten die Stadt mit dem Fahrrad besichtigen.</example>              
-   </no>  
-   <no x="38">
+      <example>Sie sind für eine Woche als Tourist in Freiburg und möchten die Stadt mit dem Fahrrad besichtigen.</example>
+  </no>  
+  <no x="38">
       <word>passend</word>
       <meaning>uygun</meaning>
-      <example>Wir haben das passende Leihrad für Sie.</example>              
-   </no>                               
-   <no x="39">
+      <example>Wir haben das passende Leihrad für Sie.</example>
+  </no>   
+  <no x="39">
       <word>der Verleih</word>
       <meaning>kiralama</meaning>
-      <example>Fahrradverleih</example>              
-   </no>                               
-   <no x="40">
+      <example>Fahrradverleih</example>
+  </no>   
+  <no x="40">
       <word>erledigen - hat erledigt</word>
       <meaning>halletmek, yerine getirmek</meaning>
-      <example>Student mit Pkw erledigt alle Ihre Einkäufe</example>              
-   </no> 
-   <no x="40">
+      <example>Student mit Pkw erledigt alle Ihre Einkäufe</example>
+  </no> 
+  <no x="40">
       <word>das Erlebnis</word>
       <meaning>macera</meaning>
-      <example>So wird jede Party ein Erlebnis!</example>              
-   </no>    
-   <no x="41">
+      <example>So wird jede Party ein Erlebnis!</example>
+  </no>    
+  <no x="41">
       <word>damit</word>
       <meaning>bununla</meaning>
-      <example>Die Mobil-Disco - damit Ifr Fest zur Party wird.</example>              
-   </no>   
-   <no x="42">
+      <example>Die Mobil-Disco - damit Ifr Fest zur Party wird.</example>
+  </no>   
+  <no x="42">
       <word>anbieten - hat angeboten</word>
       <meaning>sunmak, hizmet vermek</meaning>
-      <example>Können Sie auch einen Service anbieten? Schreiben Sie eine Anzeige.</example>              
-   </no> 
-   <no x="43">
+      <example>Können Sie auch einen Service anbieten? Schreiben Sie eine Anzeige.</example>
+  </no> 
+  <no x="43">
       <word>der Drucker</word>
       <meaning>yazıcı</meaning>
-      <example>Mein Drucker ist kaputt.</example>              
-   </no> 
-   <no x="43">
+      <example>Mein Drucker ist kaputt.</example>
+  </no> 
+  <no x="43">
       <word>die Gebrauchsanweisung</word>
       <meaning>kullanma kılavuzu</meaning>
-      <example>Sie wollen wissen, wie der Anrufbeantworter funktionert? Dann lesen Sie doch die Gebrauchsanweisung.</example>              
-   </no> 
-   <no x="44">
+      <example>Sie wollen wissen, wie der Anrufbeantworter funktionert? Dann lesen Sie doch die Gebrauchsanweisung.</example>
+  </no> 
+  <no x="44">
       <word>klasse</word>
       <meaning>harika, birinci sınıf</meaning>
-      <example>Der Mantel finde ich klasse.</example>              
-   </no>
-   <no x="45">
+      <example>Der Mantel finde ich klasse.</example>
+  </no>
+  <no x="45">
       <word>hilfstbereit</word>
       <meaning>yardıma hazır</meaning>
-      <example>Sie ist eine starke Frau und immer hilfsbereit.</example>              
-   </no>  
-   <no x="46">
+      <example>Sie ist eine starke Frau und immer hilfsbereit.</example>
+  </no>  
+  <no x="46">
       <word>emanzipiert</word>
       <meaning>özgürlüğünü kazanmış</meaning>
-      <example>Sie ist ein modernes und emanzipiertes Mädchen.</example>              
-   </no>  
-   <no x="47">
+      <example>Sie ist ein modernes und emanzipiertes Mädchen.</example>
+  </no>  
+  <no x="47">
       <word>sich vorbereiten - hat vorbereitet</word>
       <meaning>hazırlanmak</meaning>
-      <example>Er hat die Schule beendet und bereitet sich auf sein Studium vor.</example>              
-   </no>                
-   <no x="48">
+      <example>Er hat die Schule beendet und bereitet sich auf sein Studium vor.</example>
+  </no>  
+  <no x="48">
       <word>wie</word>
       <meaning>gibi</meaning>
-      <example>Sie liebt wie sein Vater die Natur.</example>              
-   </no> 
-   <no x="49">
+      <example>Sie liebt wie sein Vater die Natur.</example>
+  </no> 
+  <no x="49">
       <word>sich kümmern um - hat gekümmert</word>
       <meaning>e bakmak</meaning>
-      <example>Sie kümmert sich besonders um die Familie und die Haushalt.</example>              
-   </no>
-   <no x="50">
+      <example>Sie kümmert sich besonders um die Familie und die Haushalt.</example>
+  </no>
+  <no x="50">
       <word>krachen - ist gekracht</word>
       <meaning>gümbürdemek</meaning>
-      <example>Im Wohnzimmer kracht ein Schuss und noch einer!</example>              
-   </no> 
-   <no x="51">
+      <example>Im Wohnzimmer kracht ein Schuss und noch einer!</example>
+  </no> 
+  <no x="51">
       <word>das ist meine Sache</word>
       <meaning>bu benim bileceğim iş</meaning>
-      <example>Schißen, das ist nicht meine Sache.</example>              
-   </no>       
-   <no x="52">
+      <example>Schißen, das ist nicht meine Sache.</example>
+  </no>       
+  <no x="52">
       <word>schißen - hat geschossen</word>
       <meaning>ateş etmek</meaning>
-      <example></example>              
-   </no>       
-   <no x="53">
+      <example></example>
+  </no>       
+  <no x="53">
       <word>die Tradition</word>
       <meaning>gelenek</meaning>
-      <example>Hör mal, das ist eine Tradition.</example>              
-   </no>   
-   <no x="54">
+      <example>Hör mal, das ist eine Tradition.</example>
+  </no>   
+  <no x="54">
       <word>die Pazifismus</word>
       <meaning>pasifizm</meaning>
-      <example>Pazifismus, gegen Gewalt, gegen Krieg, gegen diesen SChießen.</example>              
-   </no> 
-   <no x="55">
+      <example>Pazifismus, gegen Gewalt, gegen Krieg, gegen diesen SChießen.</example>
+  </no> 
+  <no x="55">
       <word>friedlich</word>
       <meaning>barışçıl</meaning>
-      <example>Wir sind ein friedlicher Verein, das ist doch nur Sport.</example>              
-   </no>
-   <no x="56">
+      <example>Wir sind ein friedlicher Verein, das ist doch nur Sport.</example>
+  </no>
+  <no x="56">
       <word>wird immer lauter</word>
       <meaning>sesini yükseltmek</meaning>
-      <example>Rosi wird immer lauter end ihr Vater auch.</example>              
-   </no>              
-   <no x="57">
+      <example>Rosi wird immer lauter end ihr Vater auch.</example>
+  </no>
+  <no x="57">
       <word>leihen - hat geliehen</word>
       <meaning>ödünç vermek</meaning>
-      <example>Das Kleid gehört Mira, Mira hat es Rosa geliehen.</example>              
-   </no>              
-   <no x="58">
+      <example>Das Kleid gehört Mira, Mira hat es Rosa geliehen.</example>
+  </no>
+  <no x="58">
       <word>kochen</word>
       <meaning>yemek pişirmek</meaning>
-      <example>Sie kocht gern.</example>              
-   </no>              
-   <no x="59">
+      <example>Sie kocht gern.</example>
+  </no>
+  <no x="59">
       <word>besonders</word>
       <meaning>özellikler</meaning>
-      <example>Was schmect Ihnen besonders gut?</example>              
-   </no>
-   <no x="60">
+      <example>Was schmect Ihnen besonders gut?</example>
+  </no>
+  <no x="60">
       <word>jeweils</word>
       <meaning>her defasında</meaning>
-      <example>Schreiben Sie jeweils vier Sätze.</example>              
-   </no>
-   <no x="61">
+      <example>Schreiben Sie jeweils vier Sätze.</example>
+  </no>
+  <no x="61">
       <word>dabei</word>
       <meaning>aynı anda</meaning>
-      <example>Aber können Sie auch rückwärts fahren und dabei Geige spielen?</example>              
-   </no>      
-   <no x="62">
+      <example>Aber können Sie auch rückwärts fahren und dabei Geige spielen?</example>
+  </no>      
+  <no x="62">
       <word>die Pizza</word>
       <meaning>pizza</meaning>
-      <example>Welche Pizza möchtest du lieber?</example>              
-   </no>
-   <no x="63">
+      <example>Welche Pizza möchtest du lieber?</example>
+  </no>
+  <no x="63">
       <word>anprobieren - hat anprobiert</word>
       <meaning>prova etmek, denemek</meaning>
-      <example>Wo kann ich den Rock anprobieren?</example>              
-   </no>
-   <no x="64">
+      <example>Wo kann ich den Rock anprobieren?</example>
+  </no>
+  <no x="64">
       <word>Es gibt ...</word>
       <meaning>var</meaning>
-      <example>Gibt es den Pullover auch in Weiß?</example>              
-   </no>   
-   <no x="65">
+      <example>Gibt es den Pullover auch in Weiß?</example>
+  </no>   
+  <no x="65">
       <word>der Gürtel</word>
       <meaning>kemer</meaning>
-      <example></example>              
-   </no>  
-   <no x="66">
+      <example></example>
+  </no>  
+  <no x="66">
       <word>täglich</word>
       <meaning>hergün</meaning>
-      <example>Diese Tabletten müssen Sie dreimal täglich nach dem Essen nehmen.</example>              
-   </no> 
-   <no x="67">
+      <example>Diese Tabletten müssen Sie dreimal täglich nach dem Essen nehmen.</example>
+  </no> 
+  <no x="67">
       <word>sich treffen</word>
       <meaning>buluşmak</meaning>
-      <example>Treffen wir uns morgen um sechs Uhr am Bahnhof?</example>              
-   </no>            
-   <no x="68">
+      <example>Treffen wir uns morgen um sechs Uhr am Bahnhof?</example>
+  </no>            
+  <no x="68">
       <word>bestimmen - hat bestimmt</word>
       <meaning>belirlemek</meaning>
-      <example>Wer bestimmen die Zeit?</example>              
-   </no>  
-   <no x="69">
+      <example>Wer bestimmen die Zeit?</example>
+  </no>  
+  <no x="69">
       <word>unterstreichen - hat unterstrichen</word>
       <meaning>altını çizmek</meaning>
-      <example>Schreiben Sie die unterstrichenen Sätze mit er - ihn - sie.</example>              
-   </no>   
-   <no x="70">
+      <example>Schreiben Sie die unterstrichenen Sätze mit er - ihn - sie.</example>
+  </no>   
+  <no x="70">
       <word>verbinden - hat verbunden</word>
       <meaning>birleştirmek, bağlamak</meaning>
-      <example>Verbinden Sie die Sätze mit und - oder - aber - denn.</example>              
-   </no>  
-   <no x="71">
+      <example>Verbinden Sie die Sätze mit und - oder - aber - denn.</example>
+  </no>  
+  <no x="71">
       <word>lieber</word>
       <meaning>tercihen</meaning>
-      <example>Trinkst du einen Kafee oder möchtest du lieber einen Tee?</example>              
-   </no>    
-   <no x="72">
+      <example>Trinkst du einen Kafee oder möchtest du lieber einen Tee?</example>
+  </no>    
+  <no x="72">
       <word>feiern - hat gefeiert</word>
       <meaning>kutlamak</meaning>
-      <example>In Deutschland feiern junge Leute Silvester meistens mit Freunden oder auch mit der Familie.</example>              
-   </no>       
-   <no x="73">
+      <example>In Deutschland feiern junge Leute Silvester meistens mit Freunden oder auch mit der Familie.</example>
+  </no>       
+  <no x="73">
       <word>meistens</word>
       <meaning>genellikle</meaning>
-      <example></example>              
-   </no>    
-   <no x="74">
+      <example></example>
+  </no>    
+  <no x="74">
       <word>das Feuerwerk</word>
       <meaning>fişek eğlenceleri</meaning>
-      <example></example>              
-   </no> 
-   <no x="75">
+      <example></example>
+  </no> 
+  <no x="75">
       <word>anrufen - hat angerufen</word>
       <meaning>telefon etmek</meaning>
-      <example>Hast du den Arzt angerufen?</example>              
-   </no>       
-   <no x="76">
+      <example>Hast du den Arzt angerufen?</example>
+  </no>       
+  <no x="76">
       <word>der Ausgang</word>
       <meaning>çıkış</meaning>
-      <example>Wo ist denn der Ausgang?</example>              
-   </no>    
-   <no x="77">
+      <example>Wo ist denn der Ausgang?</example>
+  </no>    
+  <no x="77">
       <word>pro</word>
       <meaning>başına</meaning>
-      <example>Im Moment zwei Stunden, aber in Moment drei Stunden pro Tag.</example>              
-   </no> 
-   <no x="78">
+      <example>Im Moment zwei Stunden, aber in Moment drei Stunden pro Tag.</example>
+  </no> 
+  <no x="78">
       <word>kennen - hat gekannt</word>
       <meaning>tanımak, bilmek</meaning>
-      <example>Ich kenne hier in der Nähe ein gutes Cafe.</example>              
-   </no> 
-   <no x="79">
+      <example>Ich kenne hier in der Nähe ein gutes Cafe.</example>
+  </no> 
+  <no x="79">
       <word>abgeben</word>
       <meaning>teslim etmek</meaning>
-      <example>Du musst den Zimmerschlüssel an der Rezeption abgeben.</example>              
-   </no>
-   <no x="80">
+      <example>Du musst den Zimmerschlüssel an der Rezeption abgeben.</example>
+  </no>
+  <no x="80">
       <word>der Schield</word>
       <meaning>tabela</meaning>
-      <example>Sehen Sie das Schield dort nicht?</example>              
-   </no>   
-   <no x="81">
+      <example>Sehen Sie das Schield dort nicht?</example>
+  </no>   
+  <no x="81">
       <word>reisen - ist gereist</word>
       <meaning>seyahat etmek</meaning>
-      <example>Er ist schon in viele Länder gereist.</example>              
-   </no>  
-   <no x="82">
+      <example>Er ist schon in viele Länder gereist.</example>
+  </no>  
+  <no x="82">
       <word>trinken - hat getrunken</word>
       <meaning>içmek</meaning>
-      <example>Ihr habt getrunken.</example>              
-   </no>      
-   <no x="83">
+      <example>Ihr habt getrunken.</example>
+  </no>      
+  <no x="83">
       <word>wann</word>
       <meaning>ne zaman</meaning>
-      <example>Wann macht ihr Urlaub?</example>              
-   </no> 
-   <no x="84">
+      <example>Wann macht ihr Urlaub?</example>
+  </no> 
+  <no x="84">
       <word>der Unfall</word>
       <meaning>kaza</meaning>
-      <example>Ich hatte einen Unfall.</example>              
-   </no>   
-   <no x="85">
+      <example>Ich hatte einen Unfall.</example>
+  </no>   
+  <no x="85">
       <word>da</word>
       <meaning>orada</meaning>
-      <example>Welchen Pullover findest du besser, den da oder den hier?</example>              
-   </no>        
+      <example>Welchen Pullover findest du besser, den da oder den hier?</example>
+  </no>
+  <no x="86">
+      <word>hinfahren</word>
+      <meaning>götürmek, bırakmak</meaning>
+      <example>Ich kann dich hinfahren, aber abholen kann ich dich nicht.</example>
+  </no>   
+  <no x="87">
+      <word>besuchen - hat besucht</word>
+      <meaning>ziyaret etmek</meaning>
+      <example>Ich habe sie dort besucht.</example>
+  </no>
+  <no x="88">
+      <word>eintragen - hat eingetragen</word>
+      <meaning>kaydetmek</meaning>
+      <example>Du musst hier ihr Geburtsdatum und hier ihr Geburtsort eintragen.</example>
+  </no>
+  <no x="89">
+      <word>der Fahrgast, ..e</word>
+      <meaning>yolcu</meaning>
+      <example>Die Fährgaste sollen sitzen bleiben.</example>
+  </no>  
+  <no x="90">
+      <word>der Fluggast, ..e</word>
+      <meaning>yolcu</meaning>
+      <example>Der Fluggast Koll soll Tasche schließen.</example>
+  </no>   
+  <no x="91">
+      <word>die Ansage</word>
+      <meaning>anons</meaning>
+      <example>In Teil 3 hören Sie fünf Ansagen.</example>
+  </no>
+  <no x="92">
+      <word>das Gewitter</word>
+      <meaning>fırtına</meaning>
+      <example>schlimmes Gewitter</example>
+  </no>
+  <no x="93">
+      <word>als</word>
+      <meaning>den daha</meaning>
+      <example>Im Text gibt es mehr Informationen im Text, als Sie brauchen</example>
+  </no>
+  <no x="94">
+      <word>gebraucht</word>
+      <meaning>kullanılmış</meaning>
+      <example>Personen suchen ein gebrauchtes Auto.</example>
+  </no>
+  <no x="95">
+      <word>restlich</word>
+      <meaning>geri kalan</meaning>
+      <example></example>
+  </no>
+  <no x="96">
+      <word>voraussichtlich</word>
+      <meaning>olası, tahmin edildiğine göre</meaning>
+      <example>Sie können voraussichtlich ab ende Mai wieder bei uns einkaufen.</example>
+  </no>  
+  <no x="97">
+      <word>an wen</word>
+      <meaning>kime</meaning>
+      <example>An wen schreiben Sie?</example>
+  </no>
+  <no x="98">
+      <word>der Prüfer</word>
+      <meaning>sınavı yapan</meaning>
+      <example>Kann die Prüfer den Text lesen?</example>
+  </no>   
+  <no x="99">
+      <word>mündlich</word>
+      <meaning>sözlü</meaning>
+      <example>Die mündliche Prüfung hat drei Teile.</example>
+  </no>   
+  <no x="100">
+      <word>teilnehmend</word>
+      <meaning>katılan</meaning>
+      <example>Sie sprechen mit einer Prüferin und den anderen Teilnehmend.</example>
+  </no>   
+  <no x="101">
+      <word>etwa (circa)</word>
+      <meaning>aşağı yukarı</meaning>
+      <example>Der Test dauert etwa 15 Minuten pro Gruppe.</example>
+  </no>   
+  <no x="102">
+      <word>sich vorstellen</word>
+      <meaning>tanıtmak</meaning>
+      <example>Sie stellen sich in der Gruppe vor.</example>
+  </no>   
+  <no x="103">
+      <word>überlegen - überlegte - hat überlegt</word>
+      <meaning>düşünmek</meaning>
+      <example>Überlegen Sie: Was sagen Sie über sich?</example>
+  </no>   
+  <no x="104">
+      <word>zu zweit</word>
+      <meaning>iki kişi</meaning>
+      <example>Üben Sie zu zweit die Zahlen</example>
+  </no>   
+  <no x="105">
+      <word>bitten - bat - hat gebeten</word>
+      <meaning>riza etmek</meaning>
+      <example>Bitten Sie Ihren Partner um Hilfe.</example>
+  </no>
+  <no x="106">
+      <word>ungewöhnlich</word>
+      <meaning>garip</meaning>
+      <example>Wer hat ein ungewöhnliches Hobby?</example>
+  </no>
+  <no x="107">
+      <word>sowieso</word>
+      <meaning>zaten</meaning>
+      <example>Das ist sowieso nur etwas für Männer.</example>
+  </no>
+  <no x="108">
+      <word>einfallen - fiel ein - ist eingefallen </word>
+      <meaning>aklına gelmek</meaning>
+      <example>Plötzlich fällt ihm etwas ein</example>
+  </no>   
+  <no x="109">
+      <word>unter</word>
+      <meaning>in arasında</meaning>
+      <example>Ludwig fühlt sich wie ein König unter Freunden.</example>
+  </no>
+  <no x="110">
+      <word>danach</word>
+      <meaning>ondan sonra</meaning>
+      <example>Danach beginnt das schießen auf dem Schießstand.</example>
+  </no>
+  <no x="111">
+      <word>schwanger</word>
+      <meaning>hamile</meaning>
+      <example>Sie ist schwanger: Bald bekommt Sie ein Baby.</example>
+  </no>
+  <no x="112">
+      <word>verpassen - hat verpasst</word>
+      <meaning>kaçırmak</meaning>
+      <example>Maria hat das Flugzeug verpasst.</example>
+  </no>
+  <no x="113">
+      <word>das Gefühl</word>
+      <meaning>duygu, his</meaning>
+      <example>Er hat ein komisches Gefühl.</example>
+  </no>   
+  <no x="114">
+      <word>fühlen - fühlte - hat gefühlt</word>
+      <meaning>hissetmek</meaning>
+      <example>Mathias fühlt sich zuerz ganz hilflos und schwach.</example>
+  </no>
+  <no x="115">
+      <word>sterben - starb - ist gestorben</word>
+      <meaning>ölmek</meaning>
+      <example>Ludwig ist gestorben, durch ainen Schuss in den Kopf.</example>
+  </no>
+  <no x="116">
+      <word>das Motiv</word>
+      <meaning>gerekçe</meaning>
+      <example>Was war der Motiv?</example>
+  </no>         
+  <no x="117">
+      <word>Verzeihung</word>
+      <meaning>afedersiniz</meaning>
+      <example></example>
+  </no> 
+  <no x="118">
+      <word>der Ausflug</word>
+      <meaning>asansör</meaning>
+      <example></example>
+  </no>       
+  <no x="119">
+      <word>die Bewerbung</word>
+      <meaning>başvuru</meaning>
+      <example></example>
+  </no>
+  <no x="120">
+      <word>die Betreuung</word>
+      <meaning>bakım</meaning>
+      <example></example>
+  </no>   
+  <no x="121">
+      <word>bestehend</word>
+      <meaning>mevcut</meaning>
+      <example></example>
+  </no>
+  <no x="122">
+      <word>begleiten - begleitete - hat begleitet</word>
+      <meaning>eşlik etmek</meaning>
+      <example></example>
+  </no>
+  <no x="123">
+      <word>die Auszahlung</word>
+      <meaning>ödeme</meaning>
+      <example></example>
+  </no>   
+  <no x="124">
+      <word>vollständig</word>
+      <meaning>eksiksiz</meaning>
+      <example></example>
+  </no>   
+  <no x="125">
+      <word>der Unterlage</word>
+      <meaning>belgeler</meaning>
+      <example></example>
+  </no>   
+  <no x="126">
+      <word>die Ausrede</word>
+      <meaning>bahane</meaning>
+      <example>Finden Sie möglichst viele Ausreden mit weil.</example>
+  </no>  
+  <no x="127">
+      <word>aufstehen - ist aufgestanden</word>
+      <meaning>uyanmak</meaning>
+      <example>Ich bin schon um drei Uhr ayfgestanden.</example>
+  </no>  
+  <no x="128">
+      <word>auspacken - hat ausgepackt</word>
+      <meaning>i açmak</meaning>
+      <example>Packst du bitte die Koffer aus?</example>
+  </no>    
+  <no x="129">
+      <word>aufhängen - hat aufgehängt</word>
+      <meaning>asmak</meaning>
+      <example>Ich habe die Jacke aufgehängt.</example>
+  </no>    
+  <no x="130">
+      <word>eingehen - ist eingegangen</word>
+      <meaning>gelmek</meaning>
+      <example>Ihre Unterlagen sind bei uns eingegangen.</example>
+  </no>    
+  <no x="131">
+      <word>zeitnah</word>
+      <meaning>kısa zamanda</meaning>
+      <example>Wir werden sie entsprechend bearbeiten und uns dann zeitnah mit Ihnen in Verbindung setzen.</example>
+  </no>    
+  <no x="132">
+      <word>sich in Verbindung setzen</word>
+      <meaning>temasa geçmek</meaning>
+      <example>Wir werden sie entsprechend bearbeiten und uns dann zeitnah mit Ihnen in Verbindung setzen.</example>
+  </no>    
 </language>
 
+<!--
+ Ihre Partnerin schreibt, was sie verstanden hat.
+ Der Bus zum Flughafen hat ein Rad verloren.
+-->
 
 
