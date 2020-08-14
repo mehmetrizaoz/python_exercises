@@ -12,9 +12,9 @@ Kreuzt ihr an.</example>
       <example>Ich habe ein Buch.</example>
   </no>
   <no x="3">
-      <word>das Baum,..e</word>
-      <meaning>ağaç</meaning>
-      <example>Der Baum ist niedrig.</example>
+      <word>der Zufall</word>
+      <meaning>tesadüf</meaning>
+      <example>Also, so ein Zufall</example>
   </no>   
   <no x="4">
       <word>ausmachen, hat ausgemacht</word>
@@ -38,7 +38,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Einen Termin für Dienstag vereinbaren.</example>
   </no> 
   <no x="8">
-      <word>verschieben</word>
+      <word>verschieben - hat verschoben</word>
       <meaning>ertelemek</meaning>
       <example>Den Termin von Dienstag auf Freitag verschieben.
 (hat verschoben)</example>
@@ -651,7 +651,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
   <no x="127">
       <word>aufstehen - ist aufgestanden</word>
       <meaning>uyanmak</meaning>
-      <example>Ich bin schon um drei Uhr ayfgestanden.</example>
+      <example>Ich bin schon um drei Uhr aufgestanden.</example>
   </no>  
   <no x="128">
       <word>auspacken - hat ausgepackt</word>
@@ -677,12 +677,108 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <word>sich in Verbindung setzen</word>
       <meaning>temasa geçmek</meaning>
       <example>Wir werden sie entsprechend bearbeiten und uns dann zeitnah mit Ihnen in Verbindung setzen.</example>
+  </no>   
+  <no x="133">
+      <word>wenigstens</word>
+      <meaning>hiç olmazsa</meaning>
+      <example>Hast du denn wenigstens ein bischen geschlafen?</example>
+  </no>   
+  <no x="134">
+      <word>versuchen - hat versucht</word>
+      <meaning>denemek</meaning>
+      <example>Ich habe es versucht, aber die Sitze waren total unbequem.</example>
+  </no>   
+  <no x="135">
+      <word>unbequem</word>
+      <meaning>rahatsız</meaning>
+      <example>Ich habe es versucht, aber die Sitze waren total unbequem.</example>
+  </no>    
+  <no x="136">
+      <word>schlißlich</word>
+      <meaning>nihayet, sonunda</meaning>
+      <example>Schlißlich bist du gut wieder zu Hause angekommen, oder?</example>
+  </no>    
+  <no x="137">
+      <word>fast</word>
+      <meaning>neredeyse</meaning>
+      <example>Ich habe fast das Flugzeug verpasst.</example>
+  </no>    
+  <no x="138">
+      <word>bekommen - hat bekommen</word>
+      <meaning>almak</meaning>
+      <example>Auf der ganzen Reise habe ich nicht mal eine Tasse Kaffe bekommen.</example>
+  </no>    
+  <no x="139">
+      <word>passieren - ist passiert</word>
+      <meaning>olmak, cereyan etmek</meaning>
+      <example>Was ist denn passiert?</example>
+  </no>
+  <no x="140">
+      <word>verlieren - hat verloren</word>
+      <meaning>unutmak</meaning>
+      <example>Was haben Sie schon einmal vergessen oder verloren?</example>
+  </no>
+  <no x="141">
+      <word>der Stammbaum</word>
+      <meaning>soy ağacı</meaning>
+      <example>Sehen Sie den Stammbaum an</example>
+  </no>  
+  <no x="142">
+      <word>das Unternehmen</word>
+      <meaning>girişim</meaning>
+      <example>Wir haben Ihre Unterlagen intensiv geprüft und mit den Anfragen unserer Kundenunternehmen abgeglichen.</example>
+  </no>      
+  <no x="143">
+      <word>die Schwägerin</word>
+      <meaning>yenge</meaning>
+      <example>Die Schwester von ihrem Mann ist dann ihre Schwägerin.</example>
+  </no>
+  <no x="144">
+      <word>der Schwiegervater</word>
+      <meaning>kayınpeder</meaning>
+      <example>Der Vater von Julias Ehemann ist dann ihr Schwiegervater.</example>
+  </no>   
+  <no x="145">
+      <word>einziehen - ist eingezogen</word>
+      <meaning>bir eve (taşınmak)</meaning>
+      <example>Der Vater von Julias Ehemann ist dann ihr Schwiegervater.</example>
+  </no>  
+  <no x="146">
+      <word>verwöhnen - hat verwöhnt</word>
+      <meaning>şımartmak, yüz vermek</meaning>
+      <example>Es its nicht einfach, weil die Großmutter die Kinder verwöhnt.</example>
+  </no>   
+  <no x="147">
+      <word>getrennt</word>
+      <meaning>ayrı</meaning>
+      <example>Sie wohnt allein mit ihrem Sohn. Sie lebt getrennt von ihrem Mann.</example>
+  </no>    
+  <no x="148">
+      <word>nebenan</word>
+      <meaning>bitişikte</meaning>
+      <example>Meine Nahbarin im Haus nebenan lebt mit ihrem Mann zusammen.</example>
+  </no> 
+  <no x="149">
+      <word>die Häufigkeit</word>
+      <meaning>sıklık</meaning>
+      <example></example>
+  </no>    
+  <no x="149">
+      <word>das Kunstwerk</word>
+      <meaning>sanat eseri</meaning>
+      <example>Berühmte Kunstwerke sind der Madgeburger Reiter und der Magdeburger Dom.</example>
+  </no>      
+  <no x="150">
+      <word>der Einwohner</word>
+      <meaning>sakin</meaning>
+      <example>Heute ist Braunschweig stadt hat etwa 240.000 Einwohner.</example>
   </no>    
 </language>
 
 <!--
  Ihre Partnerin schreibt, was sie verstanden hat.
  Der Bus zum Flughafen hat ein Rad verloren.
+ Ihre Schwiegermutter hift bei der Hausarbeit.
 -->
 
 
