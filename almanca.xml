@@ -772,7 +772,49 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <word>der Einwohner</word>
       <meaning>sakin</meaning>
       <example>Heute ist Braunschweig stadt hat etwa 240.000 Einwohner.</example>
-  </no>    
+  </no> 
+  <no x="151">
+      <word>der Hausmeister</word>
+      <meaning>kapıcı, hademe</meaning>
+      <example>Der Hausmeister sorgt für Ordnung.</example>
+  </no>   
+  <no x="152">
+      <word>wegverfen - hat weggeworfen</word>
+      <meaning>çöpe atmak</meaning>
+      <example>Müll ist, was man nicht mehr braucht ung wegwirft.</example>
+  </no>        
+  <no x="153">
+      <word>die Mülltonne</word>
+      <meaning>çöp bidonu</meaning>
+      <example>Müll wirft man in Mülltonnen und die Müllmänner holen ihn ab.</example>
+  </no> 
+  <no x="154">
+      <word>trennen - trennte - hat getrennt</word>
+      <meaning>ayırmak</meaning>
+      <example>Müll muss man in Deutschland trennen.</example>
+  </no>  
+  <no x="155">
+      <word>bis gleich</word>
+      <meaning>biras sonra görüşürüz</meaning>
+      <example></example>
+  </no> 
+  <no x="156">
+      <word>tauschen - hat getauscht</word>
+      <meaning>değiştirmek</meaning>
+      <example>Die Gruppen tauschen die Rollen.</example>
+  </no>
+  <no x="157">
+      <word>raus</word>
+      <meaning>dışarı</meaning>
+      <example>Ich komme raus.</example>
+  </no>
+  <no x="158">
+      <word>runter</word>
+      <meaning>aşağı</meaning>
+      <example>Dann bringe ich mal den Müll runter.</example>
+  </no>
+  
+               
 </language>
 
 <!--
