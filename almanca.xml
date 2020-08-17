@@ -7,9 +7,9 @@ Kreuze an.
 Kreuzt ihr an.</example>
   </no>
   <no x="2">
-      <word>das Buch,er</word>
-      <meaning>kitap</meaning>
-      <example>Ich habe ein Buch.</example>
+      <word>dringend</word>
+      <meaning>acil olarak</meaning>
+      <example>Mein Fahrrad ist kaputt und ich muss ganz dringend in die Uni.</example>
   </no>
   <no x="3">
       <word>der Zufall</word>
@@ -715,7 +715,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
   </no>
   <no x="140">
       <word>verlieren - hat verloren</word>
-      <meaning>unutmak</meaning>
+      <meaning>kaybetmek</meaning>
       <example>Was haben Sie schon einmal vergessen oder verloren?</example>
   </no>
   <no x="141">
@@ -804,17 +804,307 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Die Gruppen tauschen die Rollen.</example>
   </no>
   <no x="157">
-      <word>raus</word>
+      <word>raus - heraus - hinaus</word>
       <meaning>dışarı</meaning>
       <example>Ich komme raus.</example>
   </no>
   <no x="158">
-      <word>runter</word>
+      <word>runter - herunter - hinunter</word>
       <meaning>aşağı</meaning>
       <example>Dann bringe ich mal den Müll runter.</example>
   </no>
-  
-               
+  <no x="159">
+      <word>rein - hinein - herein</word>
+      <meaning>içeriye</meaning>
+      <example>Papier kommt rein.</example>
+  </no> 
+  <no x="160">
+      <word>rauf - hinauf - herauf</word>
+      <meaning>yukarıya</meaning>
+      <example>Kommen Sie doch rauf!</example>
+  </no>
+  <no x="161">
+      <word>rüber - hinüber - herüber</word>
+      <meaning>bu tarafa</meaning>
+      <example>Kommen Sie doch rüber!</example>
+  </no>
+  <no x="162">
+      <word>zeichnen - zeichnete - hat gezeichnet</word>
+      <meaning>çizmek</meaning>
+      <example>Schreiben und zeichnen Sie fünf Kärtchen.</example>
+  </no>
+  <no x="163">
+      <word>tratschen - tratschte - hat getratscht</word>
+      <meaning>1- dedikodu yapmak 2- gevezelik etmek</meaning>
+      <example>Ilse und Heidrun tratschen.</example>
+  </no>
+  <no x="164">
+      <word>das Aussehen</word>
+      <meaning>görünüş</meaning>
+      <example>Sie sprechen über andere Leute, zum Beispiel über ihr Aussehen.</example>
+  </no>
+  <no x="165">
+      <word>dauernd</word>
+      <meaning>sürekli</meaning>
+      <example>Sie ist dauernd allein.</example>
+  </no>  
+  <no x="166">
+      <word>abstellen - stellte ab - hat abgestellt</word>
+      <meaning>yere koymak</meaning>
+      <example>Er stellt seine Kisten vor dem Eingang ab.</example>
+  </no>      
+  <no x="167">
+      <word>der Kinderwagen</word>
+      <meaning>çocuk arabası</meaning>
+      <example>Er stellt den Kinderwagen vor dem Aufzug ab.</example>
+  </no>  
+  <no x="168">
+      <word>bereits</word>
+      <meaning>daha şimdiden</meaning>
+      <example>Er hat bereits große Kinder.</example>
+  </no>    
+  <no x="169">
+      <word>der Hochzeitstag</word>
+      <meaning>evlenme yıldönümü</meaning>
+      <example>Herr un Frau Wagner haben bald ihren 20. Hochzeitstag.</example>
+  </no>
+  <no x="170">
+      <word>fernsehen - hat ferngesehen</word>
+      <meaning>televizyon seyretmek</meaning>
+      <example>Die Wagners haben ferngesehen.</example>
+  </no>    
+  <no x="171">
+      <word>zusammenleben- lebte zusammen - hat zusammengelebt</word>
+      <meaning>beraber yaşamak</meaning>
+      <example>Herr Wagner will nicht mehr mit seiner Frau zusammenleben.</example>
+  </no>    
+  <no x="172">
+      <word>streiten - stritt - hat gestritten</word>
+      <meaning>kavga etmek</meaning>
+      <example>Die Wagners hat gestritten.</example>
+  </no>     
+  <no x="173">
+      <word>weitergehen - hat weitergegangen</word>
+      <meaning>devam etmek, sürmek</meaning>
+      <example>So geht es immer weiter.</example>
+  </no>    
+  <no x="174">
+      <word>wahnsinnig</word>
+      <meaning>çılgın gibi</meaning>
+      <example>Wir haben wahnsinnig viel Strom verbraucht.</example>
+  </no> 
+  <no x="175">
+      <word>verbrauchen - hat verbraucht</word>
+      <meaning>harcamak, tüketmek</meaning>
+      <example>Wir haben wahnsinnig viel Strom verbraucht.</example>
+  </no>     
+  <no x="176">
+      <word>wecken - hat geweckt</word>
+      <meaning>uyandırmak</meaning>
+      <example>Ich will dich nicht wecken.</example>
+  </no> 
+  <no x="176">
+      <word>nachsehen - hat nachgesehen</word>
+      <meaning>kontrol etmek</meaning>
+      <example>Sei doch nett und sieh im Briefkasten nach.</example>
+  </no> 
+  <no x="177">
+      <word>gegen</word>
+      <meaning>e doğru</meaning>
+      <example>Ich bin gegen 19 Uhr zurück.</example>
+  </no>   
+  <no x="178">
+      <word>ausleihen - hat ausgeliehen</word>
+      <meaning>ödünç vermek</meaning>
+      <example>Er hat sein Fahrrad ausgeliehen.</example>
+  </no> 
+  <no x="179">
+      <word>auswählen - hat ausgewählt</word>
+      <meaning>seçmek</meaning>
+      <example>Wählen Sie eine Situation aus und schreiben Sie eine Mitteilung.</example>
+  </no>   
+  <no x="180">
+      <word>die Mitteilung</word>
+      <meaning>haber, duyuru</meaning>
+      <example>Wählen Sie eine Situation aus und schreiben Sie eine Mitteilung.</example>     
+  </no>             
+  <no x="181">
+      <word>sich entschuldigen - entschuldigte sich - hat sich entschuldigt</word>
+      <meaning>özür dilemek</meaning>
+      <example></example> 
+  </no>        
+  <no x="182">
+      <word>gießen - goss - hat gegossen</word>
+      <meaning>sulamak</meaning>
+      <example>Sie müssen die Blumen gießen.</example>       
+   </no>  
+  <no x="183">
+      <word>aufpassen - hat aufgepasst</word>
+      <meaning>1-bakmak 2-dikkat etmek</meaning>
+      <example>Sie müssen denHund aufpassen.</example>       
+   </no>
+  <no x="184">
+      <word>ärgerlich</word>
+      <meaning>can sıkıcı</meaning>
+      <example>Das ist wirklich ärgerlich.</example>
+  </no>   
+  <no x="185">
+      <word>weit mehr</word>
+      <meaning>çok daha fazlası</meaning>
+      <example>Weit mehr als eine Million Besucher waren es in den ersten zwanzig Jahren.</example>
+  </no>   
+  <no x="186">
+      <word>der Eigentümer</word>
+      <meaning>mal sahibi</meaning>
+      <example>Der Eigentümmer des, Hundertwasser Hauses</example>
+  </no>  
+  <no x="187">
+      <word>unmenschlich</word>
+      <meaning>insanlık dışı</meaning>
+      <example>Die moderne Architektur findet er unmenschlich und kalt und entwickelt alternatice Ideen.</example>
+  </no>
+  <no x="188">
+      <word>ausschlafen</word>
+      <meaning>uykusunu almak</meaning>
+      <example>Sie möchte am Wochenende ausschlafen.</example>
+  </no>
+  <no x="189">
+      <word>schmecken - schmeckte - hat geschmect</word>
+      <meaning>tadı hoşuna gitmek</meaning>
+      <example>nur der Kaffe schmeckt Maria gar nicht.</example>
+  </no> 
+  <no x="190">
+      <word>der Kaiser</word>
+      <meaning>imparator</meaning>
+      <example>Morgens essen wie ein Keiser.</example>
+  </no>  
+  <no x="191">
+      <word>ehrlich gesagt</word>
+      <meaning>doğrusu</meaning>
+      <example>Ehrlich gesagt stehe ich fast immer zu spät auf.</example>
+  </no>   
+  <no x="192">
+      <word>im Stehen</word>
+      <meaning>ayakta</meaning>
+      <example>Manchmal habe ich ein bisschen Zeit, dann esse ich ganz schnell im Stehen ein paar Cornflakes mit Milch.</example>
+  </no>   
+  <no x="193">
+      <word>drinnen</word>
+      <meaning>içeride</meaning>
+      <example>Im Sommer frühstücken wir auf dem Balkon, sonst drinnen in der Küche.</example>
+  </no>  
+  <no x="194">
+      <word>ab und zu</word>
+      <meaning>ara sıra</meaning>
+      <example>Und ab und zu ein Croissant</example>
+  </no>
+  <no x="195">
+      <word>frisch gepressed</word>
+      <meaning>taze sıkılmış</meaning>
+      <example>Oft trinken wir sogar Orangensaft, frisch gepresst.</example>
+  </no>  
+  <no x="196">
+      <word>herzhaft</word>
+      <meaning>yoğun, güçlü</meaning>
+      <example>Ein herzhaftes Frühstück mit Wurst und Käse mag ich nicht so gern.</example>
+  </no>  
+  <no x="197">
+      <word>im setzen</word>
+      <meaning>oturarak</meaning>
+      <example>Frühstücken Sie im Stehen oder im Setzen?</example>
+  </no>  
+  <no x="198">
+      <word>die Nüsse</word>
+      <meaning>ceviz, fındık</meaning>
+      <example></example>
+  </no> 
+  <no x="199">
+      <word>verteilen</word>
+      <meaning>dağıtmak</meaning>
+      <example>Verteilen Sie die Karten und spielen Sie zu dritt.</example>
+  </no>  
+  <no x="200">
+      <word>die Mikrowelle</word>
+      <meaning>mikrodalga</meaning>
+      <example></example>
+  </no>  
+  <no x="201">
+      <word>zu dritt</word>
+      <meaning>üç kişi</meaning>
+      <example>Verteilen Sie die Karten und spielen Sie zu dritt.</example>
+  </no>
+  <no x="202">
+      <word>darin</word>
+      <meaning>içinde</meaning>
+      <example>Verzeihen Sie, der Salat ist nicht frisch. Und außerdem ist zu viel Essig drin.</example>
+  </no>    
+  <no x="203">
+      <word>die Portion</word>
+      <meaning>porsiyon</meaning>
+      <example>Ich hatte einen Tee mit Zitrone und eine Portion Eis.</example>
+  </no>
+  <no x="204">
+      <word>reklamieren - reklamierte - hat reklamiert</word>
+      <meaning>şikayet etmek</meaning>
+      <example></example>
+  </no>   
+  <no x="205">
+      <word></word>
+      <meaning></meaning>
+      <example></example>
+  </no>  
+  <no x="206">
+      <word>die Zeile</word>
+      <meaning>satır</meaning>
+      <example>Lesen Sie die Zeile 2.</example>
+  </no>   
+  <no x="207">
+      <word>dazu</word>
+      <meaning>buna</meaning>
+      <example>In Deutschland sagen wir "Imbiss" dazu.</example>
+  </no>      
+  <no x="208">
+      <word>die Mahlzeit</word>
+      <meaning>bir öğünlük yemek</meaning>
+      <example>Wir haben doch ein wunderbares eigenes Wort für die Schnelle Mahlzeit.</example>
+  </no>
+  <no x="209">
+      <word>nirgends</word>
+      <meaning>hiçbir yerde</meaning>
+      <example>Nirgens auf der Welt gibr es so viele unterschiedene Wurstarten wie bei uns.</example>
+  </no>  
+
+  <no x="210">
+      <word>schließlich</word>
+      <meaning>nihayet</meaning>
+      <example>Sandwiches gibt es schließlich in vielen Ländern, genau wie Hamburger oder Cheeseburger.</example>
+  </no>    
+  <no x="211">
+      <word>der Senf</word>
+      <meaning>hardal</meaning>
+      <example>Sie esse sie gekocht oder gebraten, mit Ketchup oder scharfem Senf.</example>
+  </no>  
+  <no x="212">
+      <word>himmlisch</word>
+      <meaning>harika, çok güzel</meaning>
+      <example>Konnopkes Soße wird seit Jahrzehnten nac einem Rezept hergestellt und schmect einfach himmlisch.</example>
+  </no>   
+  <no x="213">
+      <word>fett</word>
+      <meaning>yağlı</meaning>
+      <example>Wurst mag ich nicht. Die ist zu fett.</example>
+  </no>     
+  <no x="214">
+      <word>scharf</word>
+      <meaning>acı</meaning>
+      <example>Ich esse gern scharf.</example>
+  </no>     
+  <no x="215">
+      <word></word>
+      <meaning></meaning>
+      <example></example>
+  </no>    
+
 </language>
 
 <!--
