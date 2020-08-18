@@ -184,9 +184,9 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>die Tür zumachen</example>
   </no>   
   <no x="36">
-      <word>laut</word>
-      <meaning>yüksek sesle</meaning>
-      <example>lesen Sie laut.</example>
+      <word>der Strauß</word>
+      <meaning>buket, demet</meaning>
+      <example>ein Blumen Strauß</example>
   </no>
   <no x="37">
       <word>besichtigen - hat besichtigt</word>
@@ -224,9 +224,9 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Können Sie auch einen Service anbieten? Schreiben Sie eine Anzeige.</example>
   </no> 
   <no x="43">
-      <word>der Drucker</word>
-      <meaning>yazıcı</meaning>
-      <example>Mein Drucker ist kaputt.</example>
+      <word>gut/schlecht ankommen</word>
+      <meaning></meaning>
+      <example>Die entschuldigung ist bei Monikat gut angekommen.</example>
   </no> 
   <no x="43">
       <word>die Gebrauchsanweisung</word>
@@ -310,7 +310,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
   </no>
   <no x="59">
       <word>besonders</word>
-      <meaning>özellikler</meaning>
+      <meaning>özellikle</meaning>
       <example>Was schmect Ihnen besonders gut?</example>
   </no>
   <no x="60">
@@ -1100,17 +1100,88 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Ich esse gern scharf.</example>
   </no>     
   <no x="215">
+      <word>gleich</word>
+      <meaning>hemen</meaning>
+      <example>Bleiben Sie nicht zu lange. Aber auch nicht gleich dem Essen nach Hause.</example>
+  </no>
+  <no x="216">
+      <word>übrig</word>
+      <meaning>geri kalan</meaning>
+      <example>Lassen Sie immer etwas übrig.</example>
+  </no>     
+  <no x="217">
+      <word>seltsam</word>
+      <meaning>garip</meaning>
+      <example>Das finde ich seltsam.</example>
+  </no>  
+  <no x="218">
+      <word>genauso</word>
+      <meaning>aynı şekilde</meaning>
+      <example>Das ist ganz Normal. Bei uns ist das genauso.</example>
+  </no>
+  <no x="219">
+      <word>anders</word>
+      <meaning>farklı</meaning>
+      <example>Das ist ganz Normal. Bei uns ist das anders.</example>
+  </no>     
+  <no x="220">
+      <word>übrigens</word>
+      <meaning>ayrıca</meaning>
+      <example>Übrigens: Die Nudeln habe ich selbst gemacht.</example>
+  </no>
+  <no x="221">
+      <word>aber sicher</word>
+      <meaning>hay hay</meaning>
+      <example>Ist hier noch frei? Aber sicher. Nehmen Sie doch Platz.</example>
+  </no> 
+  <no x="222">
+      <word>besetzt</word>
+      <meaning>dolu, tutulmuş</meaning>
+      <example>Ist der Platz noch frei? Tut mir leid. Der Platz ist besetzt.</example>
+  </no>  
+  <no x="223">
+      <word>aussuchen</word>
+      <meaning>seçmek</meaning>
+      <example>Suchen Sie eine Spezialität aus.</example>
+  </no>   
+  <no x="224">
+      <word>das Ergebnis</word>
+      <meaning>sonuç</meaning>
+      <example>Präsentieren Sie Ihre Ergebnisse im Kurs.</example>
+  </no>   
+  <no x="225">
+      <word>Tipp</word>
+      <meaning>tavsiye</meaning>
+      <example>Da gibt es viele gute Tipps.</example>
+  </no>     
+  <no x="226">
       <word></word>
       <meaning></meaning>
       <example></example>
   </no>    
-
+  <no x="227">
+      <word></word>
+      <meaning></meaning>
+      <example></example>
+  </no>    
+  <no x="228">
+      <word></word>
+      <meaning></meaning>
+      <example></example>
+  </no>    
+  <no x="229">
+      <word></word>
+      <meaning></meaning>
+      <example></example>
+  </no>    
+  
 </language>
 
 <!--
  Ihre Partnerin schreibt, was sie verstanden hat.
  Der Bus zum Flughafen hat ein Rad verloren.
  Ihre Schwiegermutter hift bei der Hausarbeit.
+ Das wäre nicht nötig gewesen.
 -->
 
 
