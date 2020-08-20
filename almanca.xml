@@ -1014,7 +1014,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Frühstücken Sie im Stehen oder im Setzen?</example>
   </no>  
   <no x="198">
-      <word>die Nüsse</word>
+      <word>die Nüsse,n</word>
       <meaning>ceviz, fındık</meaning>
       <example></example>
   </no> 
@@ -1150,31 +1150,155 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Präsentieren Sie Ihre Ergebnisse im Kurs.</example>
   </no>   
   <no x="225">
-      <word>Tipp</word>
+      <word>der Tipp</word>
       <meaning>tavsiye</meaning>
       <example>Da gibt es viele gute Tipps.</example>
   </no>     
   <no x="226">
-      <word></word>
-      <meaning></meaning>
-      <example></example>
+      <word>testen</word>
+      <meaning>denemek</meaning>
+      <example>Testen Sie es selbst.</example>
   </no>    
   <no x="227">
-      <word></word>
-      <meaning></meaning>
-      <example></example>
+      <word>zusammenzählen - hat zusammengezählt</word>
+      <meaning>toplamak</meaning>
+      <example>Probieren Sie von allen süßen Spezilitäten je 100 Gramm und zählen Sie am Ende die Kalorien zusammen.</example>
   </no>    
   <no x="228">
-      <word></word>
-      <meaning></meaning>
-      <example></example>
+      <word>die Art</word>
+      <meaning>çeşit</meaning>
+      <example>Von hier kommen die, Basler Leckerli, eine Art Lebkuchen mit viel Honig und Nüssen.</example>
   </no>    
   <no x="229">
+      <word>gerstellen - hat hergestellt</word>
+      <meaning>üretmek</meaning>
+      <example>Hier stellt man Produkte in großer Zahl her.</example>
+  </no>    
+  <no x="230">
+      <word>etwa</word>
+      <meaning>acaba</meaning>
+      <example>Fotografieren Sie etwa unseren Brötchen?</example>
+  </no>  
+  <no x="231">
+      <word>eigen</word>
+      <meaning>kendi</meaning>
+      <example>Er hat eigene Bäckerei.</example>
+  </no>  
+  <no x="232">
+      <word>der Bezuch</word>
+      <meaning>konuk, misafir</meaning>
+      <example>Sie haben Bezuch.</example>
+  </no>  
+  <no x="233">
+      <word>ausgeben - hat ausgegeben</word>
+      <meaning>harcamak</meaning>
+      <example>Die Leute wollen für Lebensmittel nicht so viel Geld ausgeben.</example>
+  </no>  
+  <no x="234">
+      <word>sparen</word>
+      <meaning>tasarruf etmek</meaning>
+      <example>Beim Essen sollte man nicht sparen.</example>
+  </no>  
+  <no x="235">
+      <word>beachten - hat beachtet</word>
+      <meaning>dikkate almak, hesaba katmak</meaning>
+      <example>Was Sie beachten sollten</example>
+  </no>  
+  <no x="236">
+      <word>beenden - hat beendet</word>
+      <meaning>bitirmek</meaning>
+      <example>Sie haben Ihre Ausbildung beendet.</example>
+  </no>   
+  <no x="237">
+      <word>sachlich</word>
+      <meaning>nesnel</meaning>
+      <example>Stellen Sie sachliche Fragen.</example>
+  </no>  
+  <no x="238">
+      <word>immer wieder</word>
+      <meaning>tekrar tekrar</meaning>
+      <example>Bieten Sie den Kollegen auch immer wieder Hilfe an.</example>
+  </no>       
+  <no x="239">
+      <word>arrogant</word>
+      <meaning>kibirli</meaning>
+      <example>Ein wichtiger Rat: seien Sie dabei bitte nicht arrogant.</example>
+  </no>      
+  <no x="240">
+      <word>sick merken - hat gemerkt</word>
+      <meaning>aklında tutmak</meaning>
+      <example>Merken Sie sich möglichst schnell die Namen von Ihren Kollegen.</example>
+  </no>      
+  <no x="241">
+      <word>möglichst schnell</word>
+      <meaning>mümkün olduğu kadar hızlı</meaning>
+      <example>Merken Sie sich möglichst schnell die Namen von Ihren Kollegen.</example>
+  </no>      
+  <no x="242">
+      <word>übertreiben</word>
+      <meaning>abartmak</meaning>
+      <example>Machen Sie ruhig ein paar Überstunden, aber übertreiben Sie nicht.</example>
+  </no>      
+  <no x="243">
+      <word>der Ratschlag</word>
+      <meaning>öğüt</meaning>
+      <example>Geben Sie weitere Ratschläge.</example>
+  </no>      
+  <no x="244">
+      <word>die Stellenanzeige</word>
+      <meaning>iş ilanı</meaning>
+      <example>Wenn du keine Lust auf deinen Job hast, dann kannst du Stellenanzeigen lesen.</example>
+  </no>
+  <no x="245">
+      <word>stören - hat gestört</word>
+      <meaning>rahatsız etmek</meaning>
+      <example>Es stört ihn nicht, wenn ein Kunde betrunken ist.</example>
+  </no>  
+  <no x="246">
+      <word>anbieten - hat angeboten</word>
+      <meaning>teklif etmek</meaning>
+      <example>Bieten Sie den Kollegen auch immer wieder Hilfe an.</example>
+  </no> 
+  <no x="247">
+      <word>die Teilzeit</word>
+      <meaning>part-time</meaning>
+      <example>Susanne arbeitet in einer Apotheke.</example>
+  </no>  
+  <no x="248">
+      <word>anstregend</word>
+      <meaning>yorucu</meaning>
+      <example></example>
+  </no>     
+  <no x="249">
+      <word>stundenweise</word>
+      <meaning>saat hesabıyla</meaning>
+      <example>Wenn das Baby da ist, will sie für drei Monate nur stundenwiese arbeiten.</example>
+  </no>     
+  <no x="250">
+      <word>spaß machen</word>
+      <meaning>zevk vermek</meaning>
+      <example>Wenn sie in der Apotheke Konden Tipps geben kann, macht ihr die Arbeit besonders spaß.</example>
+  </no>  
+  <no x="251">
+      <word>wenn</word>
+      <meaning>diği zaman</meaning>
+      <example>Sie will nur stundenweise arbeiten, wenn das Baby da ist.</example>
+  </no>  
+  <no x="252">
+      <word>abschließend - schloss ab - hat abgeschlossen</word>
+      <meaning>kilitlemek</meaning>
+      <example>Wenn Sie gehen abends nach Hause, schließ bitte die Tür ab.</example>
+  </no>  
+  <no x="253">
       <word></word>
       <meaning></meaning>
       <example></example>
-  </no>    
-  
+  </no> 
+  <no x="254">
+      <word></word>
+      <meaning></meaning>
+      <example></example>
+  </no>                   
 </language>
 
 <!--
