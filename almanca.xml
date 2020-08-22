@@ -1,10 +1,8 @@
 <language>
   <no x="1">
-      <word>ankreuzen</word>
-      <meaning>çarpı ile işaretlemek</meaning>
-      <example>Wir haben angekreuzt.
-Kreuze an.
-Kreuzt ihr an.</example>
+      <word></word>
+      <meaning></meaning>
+      <example></example>
   </no>
   <no x="2">
       <word>dringend</word>
@@ -54,9 +52,9 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Ich möchte den Termin am Mittwoch absagen.</example>
   </no>
   <no x="10">
-      <word>schwarz</word>
-      <meaning>siyah</meaning>
-      <example>Das ist ja ganz schwarz.</example>
+      <word></word>
+      <meaning></meaning>
+      <example></example>
   </no>
   <no x="11">
       <word>sonderangebot</word>
@@ -84,8 +82,8 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example></example>
   </no> 
   <no x="16">
-      <word>die Abfahrt</word>
-      <meaning>kalkış</meaning>
+      <word></word>
+      <meaning></meaning>
       <example></example>
   </no> 
   <no x="17">
@@ -179,9 +177,9 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Hast du den Herd ausgemacht?</example>
   </no>
   <no x="35">
-      <word>zumachen - hat zugemacht</word>
-      <meaning>açmak</meaning>
-      <example>die Tür zumachen</example>
+      <word></word>
+      <meaning></meaning>
+      <example></example>
   </no>   
   <no x="36">
       <word>der Strauß</word>
@@ -304,9 +302,9 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Das Kleid gehört Mira, Mira hat es Rosa geliehen.</example>
   </no>
   <no x="58">
-      <word>kochen</word>
-      <meaning>yemek pişirmek</meaning>
-      <example>Sie kocht gern.</example>
+      <word></word>
+      <meaning></meaning>
+      <example></example>
   </no>
   <no x="59">
       <word>besonders</word>
@@ -324,9 +322,9 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Aber können Sie auch rückwärts fahren und dabei Geige spielen?</example>
   </no>      
   <no x="62">
-      <word>die Pizza</word>
-      <meaning>pizza</meaning>
-      <example>Welche Pizza möchtest du lieber?</example>
+      <word></word>
+      <meaning></meaning>
+      <example></example>
   </no>
   <no x="63">
       <word>anprobieren - hat anprobiert</word>
@@ -540,7 +538,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
   </no>   
   <no x="105">
       <word>bitten - bat - hat gebeten</word>
-      <meaning>riza etmek</meaning>
+      <meaning>rica etmek</meaning>
       <example>Bitten Sie Ihren Partner um Hilfe.</example>
   </no>
   <no x="106">
@@ -591,12 +589,12 @@ Könten Sie bitte dein Handy ausmachen?</example>
   <no x="115">
       <word>sterben - starb - ist gestorben</word>
       <meaning>ölmek</meaning>
-      <example>Ludwig ist gestorben, durch ainen Schuss in den Kopf.</example>
+      <example>Ludwig ist gestorben, durch einen Schuss in den Kopf.</example>
   </no>
   <no x="116">
-      <word>das Motiv</word>
-      <meaning>gerekçe</meaning>
-      <example>Was war der Motiv?</example>
+      <word></word>
+      <meaning></meaning>
+      <example></example>
   </no>         
   <no x="117">
       <word>Verzeihung</word>
@@ -1170,7 +1168,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Von hier kommen die, Basler Leckerli, eine Art Lebkuchen mit viel Honig und Nüssen.</example>
   </no>    
   <no x="229">
-      <word>gerstellen - hat hergestellt</word>
+      <word>herstellen - hat hergestellt</word>
       <meaning>üretmek</meaning>
       <example>Hier stellt man Produkte in großer Zahl her.</example>
   </no>    
@@ -1290,15 +1288,136 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Wenn Sie gehen abends nach Hause, schließ bitte die Tür ab.</example>
   </no>  
   <no x="253">
-      <word></word>
-      <meaning></meaning>
+      <word>die Lust</word>
+      <meaning>Wenn du keine Lust mehr auf deinen Job hast, dann kannst du ja in einer Bäckerei arbeiten.</meaning>
       <example></example>
   </no> 
   <no x="254">
+      <word>das Medikament,e</word>
+      <meaning>ilaç</meaning>
+      <example>Wenn Sie Kopfschmerzen haben, dann finden Sie Medikamente in dem Schrank da vorn.</example>
+  </no>      
+  <no x="255">
+      <word>durch</word>
+      <meaning>sayesinde</meaning>
+      <example>Ludwig ist gestorben, durch einen Schuss in den Kopf.</example>
+  </no>
+  <no x="256">
+      <word>zusammensetzen - hat zusammengesetzt</word>
+      <meaning>bir araya getirmek</meaning>
+      <example>Sie muss die Sätze wieder zusammensetzen.</example>
+  </no> 
+  <no x="257">
+      <word>Kann ich etwas ausrichten?</word>
+      <meaning>haber bırakabilir miyim?</meaning>
+      <example></example>
+  </no>
+  <no x="258">
+      <word>sonst</word>
+      <meaning>başka</meaning>
+      <example>Ist denn sonst jemand aus der Abteilung da?</example>
+  </no>   
+  <no x="259">
+      <word>außer Haus</word>
+      <meaning>dışarıda</meaning>
+      <example>Frau Müller ist außer Haus</example>
+  </no>        
+  <no x="260">
+      <word>im Durchschnitt</word>
+      <meaning>ortalama olarak</meaning>
+      <example>Wie viele Urlaubstage haben deutsche Arbeitnehmer im Durchschnitt.</example>
+  </no>    
+  <no x="261">
+      <word>der Arbeitnehmer</word>
+      <meaning>işçi</meaning>
+      <example>Wie viele Urlaubstage haben deutsche Arbeitnehmer im Durchschnitt?</example>
+  </no>     
+  <no x="262">
+      <word>durchschnittlich</word>
+      <meaning>ortalama</meaning>
+      <example>Wie viele Feiertage gibt es durchschnittlich in Deutschland?</example>
+  </no>
+  <no x="263">
+      <word>der Feiertag</word>
+      <meaning>tatil günü</meaning>
+      <example>Wie viele Feiertage gibt es durchschnittlich in Deutschland?</example>
+  </no>     
+  <no x="264">
+      <word>keine Ahnung</word>
+      <meaning>fikrim yok</meaning>
+      <example>Freitage in Deutschland - keine Ahnung.</example>
+  </no>  
+  <no x="265">
+      <word>was ... betrifft</word>
+      <meaning>e gelince</meaning>
+      <example>Köln - Deutsch Arbeitnehmer sind international Spritze - was die Zahl freier Tage betrifft</example>
+  </no>  
+  <no x="266">
+      <word>die Angestellte, n</word>
+      <meaning>elemanlar</meaning>
+      <example>Aber nicht alle Angestellten nehmen auch ihre Urlaubstage.</example>
+  </no>  
+  <no x="267">
+      <word>ihrer Meinung nach</word>
+      <meaning>size göre</meaning>
+      <example>Wie viele tage Urlaub im Jahr sollte man ihrer Meinung nach haben?</example>
+  </no> 
+  <no x="268">
+      <word>Wie oft?</word>
+      <meaning>ne kadar sık?</meaning>
+      <example>Wie oft machen Sie Urlaub im Jahr?</example>
+  </no> 
+  <no x="269">
+      <word>wegfahren</word>
+      <meaning>taşıt ile bir yerden ayrılmak</meaning>
+      <example>Fahren Sie dann weg oder bleiben Sie zu Hause?</example>
+  </no> 
+  <no x="270">
+      <word>die Begabung</word>
+      <meaning>yetenek</meaning>
+      <example>Damit erkennen Sie Ihre Begabung und können dann den richtigen Beruf wählen.</example>
+  </no>                                     
+  <no x="271">
+      <word>das Symbol</word>
+      <meaning>sembol</meaning>
+      <example>Am Ende haben Sie zwei oder mehr Sätze mit demselben Symbol.</example>
+  </no>   
+  <no x="272">
+      <word>die Bohrmachine</word>
+      <meaning>matkap</meaning>
+      <example>Das sieht so hnlich aus meine Bohrmachine.</example>
+  </no>   
+  <no x="273">
+      <word>der Adler</word>
+      <meaning>kartal</meaning>
+      <example>Adler machen tolle Nester - besser als jeder Handwerk.</example>
+  </no>   
+  <no x="274">
+      <word>leicht</word>
+      <meaning>kolay</meaning>
+      <example>So ein Vogel hat auch kein leichtes Leben.</example>
+  </no>   
+  <no x="275">
+      <word>das Ergebnis</word>
+      <meaning>sonuç</meaning>
+      <example>Das Ergebnis ist nicht eindeutig.</example>
+  </no> 
+  <no x="276">
+      <word>eindeutig</word>
+      <meaning>açık, belli</meaning>
+      <example>Das Ergebnis ist nicht eindeutig.</example>
+  </no>  
+  <no x="277">
+      <word>sich entscheiden</word>
+      <meaning>karar vermek</meaning>
+      <example>Sie können sich wohl noch nicht entscheiden.</example>
+  </no> 
+  <no x="278">
       <word></word>
       <meaning></meaning>
       <example></example>
-  </no>                   
+  </no>   
+               
 </language>
 
 <!--
