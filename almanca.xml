@@ -1,8 +1,8 @@
 <language>
   <no x="1">
-      <word></word>
-      <meaning></meaning>
-      <example></example>
+      <word>kaufmännisch</word>
+      <meaning>ticari</meaning>
+      <example>Ich bin ein kaufmännischer Typ.</example>
   </no>
   <no x="2">
       <word>dringend</word>
@@ -52,9 +52,9 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Ich möchte den Termin am Mittwoch absagen.</example>
   </no>
   <no x="10">
-      <word></word>
-      <meaning></meaning>
-      <example></example>
+      <word>nachfragen</word>
+      <meaning>hat nachgefragt</meaning>
+      <example>Sie sollten so viel wie möglich nachfragen!</example>
   </no>
   <no x="11">
       <word>sonderangebot</word>
@@ -82,9 +82,9 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example></example>
   </no> 
   <no x="16">
-      <word></word>
-      <meaning></meaning>
-      <example></example>
+      <word>so viel wie möglich</word>
+      <meaning>mümkün olduüu kadar çok</meaning>
+      <example>Sie sollten so viel wie möglich nachfragen!</example>
   </no> 
   <no x="17">
       <word>die Verspätung</word>
@@ -1275,7 +1275,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
   <no x="250">
       <word>spaß machen</word>
       <meaning>zevk vermek</meaning>
-      <example>Wenn sie in der Apotheke Konden Tipps geben kann, macht ihr die Arbeit besonders spaß.</example>
+      <example>Kurt macht das Taxifahren Spaß, wenn er interessante Fahrgste hat.</example>
   </no>  
   <no x="251">
       <word>wenn</word>
@@ -1413,11 +1413,72 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Sie können sich wohl noch nicht entscheiden.</example>
   </no> 
   <no x="278">
+      <word>die Wendung</word>
+      <meaning>deyim</meaning>
+      <example>wichtige Wendungen</example>
+  </no>   
+  <no x="279">
+      <word>danke, gleichfalls</word>
+      <meaning>bende teşekkür ederim</meaning>
+      <example></example>
+  </no> 
+  <no x="280">
+      <word>genial</word>
+      <meaning>dahice</meaning>
+      <example>Das Ding ist klein und genial.</example>
+  </no> 
+  <no x="281">
+      <word>das Gepäck</word>
+      <meaning>bagaj</meaning>
+      <example>Bei vielen gefährlichen Expeditionen ist es im Gepäck.</example>
+  </no> 
+  <no x="282">
+      <word>das Weltraum</word>
+      <meaning>uzay</meaning>
+      <example>Astronauten nehmen es in den Weltraum mit.</example>
+  </no>   
+  <no x="283">
+      <word>überleben - hat überlebt</word>
+      <meaning>hayatta kalmak</meaning>
+      <example>Einige Menschen haben einen Notfall nur mit Hilfe ihres Dings überlebt.</example>
+  </no>      
+  <no x="284">
+      <word>häufig</word>
+      <meaning>sık</meaning>
+      <example>häufigem Gebrauch</example>
+  </no> 
+  <no x="285">
+      <word>der Gebrauch</word>
+      <meaning>kullanım</meaning>
+      <example>häufigem Gebrauch</example>
+  </no> 
+  <no x="284">
+      <word>die Armee</word>
+      <meaning>ordu</meaning>
+      <example>Eines seiner Ziele: ein gutes, praktisches Messer für die Schweizer Armee.</example>
+  </no> 
+  <no x="285">
+      <word>das Ziel</word>
+      <meaning>hedef</meaning>
+      <example>Eines seiner Ziele: ein gutes, praktisches Messer für die Schweizer Armee.</example>
+  </no> 
+  <no x="286">
       <word></word>
       <meaning></meaning>
       <example></example>
-  </no>   
-               
+  </no> 
+  <no x="287">
+      <word></word>
+      <meaning></meaning>
+      <example></example>
+  </no> 
+  <no x="288">
+      <word></word>
+      <meaning></meaning>
+      <example></example>
+  </no>         
+  
+                    
 </language>
 
 <!--
