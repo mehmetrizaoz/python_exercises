@@ -20,7 +20,7 @@
       <example>Du musst deine Zigarette ausmachen.
 Könten Sie bitte dein Handy ausmachen?</example>
   </no> 
-  <no x="5">
+  <no x="x">
       <word>das Angebot</word>
       <meaning>teklif</meaning>
       <example>Schreiben Sie uns und wir machen Ihnen ein Angebot!</example>
@@ -136,7 +136,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>aktarma</meaning>
       <example>Um 11:00 Uhr haben Sie dann Anschluss nach Neuss auf Gleis sieben.</example>
   </no>             
-  <no x="27">
+  <no x="x">
       <word>der LKW</word>
       <meaning>kamyon</meaning>
       <example></example>
@@ -146,17 +146,17 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>uğramak</meaning>
       <example>Wann kannst du heute Abend vorbeikommen?</example>
   </no> 
-  <no x="29">
+  <no x="x">
       <word>der Kühlschrank</word>
       <meaning>buzdolabı</meaning>
       <example>Wann haben Sie Ihren Kühlschrank gekauft?</example>
   </no>
-  <no x="30">
+  <no x="x">
       <word>die Reparatur</word>
       <meaning>tamir</meaning>
       <example>Wie lange brauchen Sie für die Reparatur?</example>
   </no> 
-  <no x="31">
+  <no x="x">
       <word>der Führerschein</word>
       <meaning>ehliyet</meaning>
       <example>Wann hast du den Führerschein gemacht?</example>
@@ -171,7 +171,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>açmak</meaning>
       <example>die Tür aufmachen</example>
   </no>
-  <no x="34">
+  <no x="x">
       <word>der Herd</word>
       <meaning>ocak</meaning>
       <example>Hast du den Herd ausgemacht?</example>
@@ -191,7 +191,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>gezmek, dolaşmak</meaning>
       <example>Sie sind für eine Woche als Tourist in Freiburg und möchten die Stadt mit dem Fahrrad besichtigen.</example>
   </no>  
-  <no x="38">
+  <no x="x">
       <word>passend</word>
       <meaning>uygun</meaning>
       <example>Wir haben das passende Leihrad für Sie.</example>
@@ -236,7 +236,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>harika, birinci sınıf</meaning>
       <example>Der Mantel finde ich klasse.</example>
   </no>
-  <no x="45">
+  <no x="x">
       <word>hilfstbereit</word>
       <meaning>yardıma hazır</meaning>
       <example>Sie ist eine starke Frau und immer hilfsbereit.</example>
@@ -286,7 +286,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>pasifizm</meaning>
       <example>Pazifismus, gegen Gewalt, gegen Krieg, gegen diesen SChießen.</example>
   </no> 
-  <no x="55">
+  <no x="x">
       <word>friedlich</word>
       <meaning>barışçıl</meaning>
       <example>Wir sind ein friedlicher Verein, das ist doch nur Sport.</example>
@@ -306,7 +306,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning></meaning>
       <example></example>
   </no>
-  <no x="59">
+  <no x="x">
       <word>besonders</word>
       <meaning>özellikle</meaning>
       <example>Was schmect Ihnen besonders gut?</example>
@@ -331,7 +331,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>prova etmek, denemek</meaning>
       <example>Wo kann ich den Rock anprobieren?</example>
   </no>
-  <no x="64">
+  <no x="x">
       <word>Es gibt ...</word>
       <meaning>var</meaning>
       <example>Gibt es den Pullover auch in Weiß?</example>
@@ -396,7 +396,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>çıkış</meaning>
       <example>Wo ist denn der Ausgang?</example>
   </no>    
-  <no x="77">
+  <no x="x">
       <word>pro</word>
       <meaning>başına</meaning>
       <example>Im Moment zwei Stunden, aber in Moment drei Stunden pro Tag.</example>
@@ -421,7 +421,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>seyahat etmek</meaning>
       <example>Er ist schon in viele Länder gereist.</example>
   </no>  
-  <no x="82">
+  <no x="x">
       <word>trinken - hat getrunken</word>
       <meaning>içmek</meaning>
       <example>Ihr habt getrunken.</example>
@@ -446,7 +446,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>götürmek, bırakmak</meaning>
       <example>Ich kann dich hinfahren, aber abholen kann ich dich nicht.</example>
   </no>   
-  <no x="87">
+  <no x="x">
       <word>besuchen - hat besucht</word>
       <meaning>ziyaret etmek</meaning>
       <example>Ich habe sie dort besucht.</example>
@@ -541,7 +541,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>rica etmek</meaning>
       <example>Bitten Sie Ihren Partner um Hilfe.</example>
   </no>
-  <no x="106">
+  <no x="x">
       <word>ungewöhnlich</word>
       <meaning>garip</meaning>
       <example>Wer hat ein ungewöhnliches Hobby?</example>
@@ -676,12 +676,12 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>temasa geçmek</meaning>
       <example>Wir werden sie entsprechend bearbeiten und uns dann zeitnah mit Ihnen in Verbindung setzen.</example>
   </no>   
-  <no x="133">
+  <no x="x">
       <word>wenigstens</word>
       <meaning>hiç olmazsa</meaning>
       <example>Hast du denn wenigstens ein bischen geschlafen?</example>
   </no>   
-  <no x="134">
+  <no x="x">
       <word>versuchen - hat versucht</word>
       <meaning>denemek</meaning>
       <example>Ich habe es versucht, aber die Sitze waren total unbequem.</example>
@@ -691,7 +691,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>rahatsız</meaning>
       <example>Ich habe es versucht, aber die Sitze waren total unbequem.</example>
   </no>    
-  <no x="136">
+  <no x="x">
       <word>schlißlich</word>
       <meaning>nihayet, sonunda</meaning>
       <example>Schlißlich bist du gut wieder zu Hause angekommen, oder?</example>
@@ -716,7 +716,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>kaybetmek</meaning>
       <example>Was haben Sie schon einmal vergessen oder verloren?</example>
   </no>
-  <no x="141">
+  <no x="x">
       <word>der Stammbaum</word>
       <meaning>soy ağacı</meaning>
       <example>Sehen Sie den Stammbaum an</example>

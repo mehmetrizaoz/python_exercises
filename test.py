@@ -19,16 +19,14 @@ while var == 1:
    random = randint(1, len(list(root)))
    for item in lst:
       if (item.get('x') == str(random)):              
-         print("\n\n**********************************************")
+         print("\n\n***************************************")
          print(item.find('word').text)
          print("----------------------------------------")
          answer = input()
-         if(answer == "OK"):
-            print("mmmmmm")
          print(item.find('meaning').text)
          print("----------------------------------------")         
          print(item.find('example').text)
-         print("**********************************************\n\n\n\n")
+         print("****************************************\n\n\n\n")
 
 
 
