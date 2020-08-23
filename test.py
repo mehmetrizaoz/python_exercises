@@ -22,7 +22,9 @@ while var == 1:
          print("\n\n**********************************************")
          print(item.find('word').text)
          print("----------------------------------------")
-         input()
+         answer = input()
+         if(answer == "OK"):
+            print("mmmmmm")
          print(item.find('meaning').text)
          print("----------------------------------------")         
          print(item.find('example').text)
