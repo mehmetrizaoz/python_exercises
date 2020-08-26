@@ -20,7 +20,7 @@
       <example>Du musst deine Zigarette ausmachen.
 Könten Sie bitte dein Handy ausmachen?</example>
   </no> 
-  <no x="x">
+  <no x="5">
       <word>das Angebot</word>
       <meaning>teklif</meaning>
       <example>Schreiben Sie uns und wir machen Ihnen ein Angebot!</example>
@@ -41,7 +41,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Den Termin von Dienstag auf Freitag verschieben.
 (hat verschoben)</example>
   </no>  
-  <no x="9">
+  <no x="x">
       <word>einladen - hat eingeladen</word>
       <meaning>davet etmek, çağırmak</meaning>
       <example>Ich möchte meine Freunde Petra am Freitagabend einladen.</example>
@@ -66,17 +66,17 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>yüzme havuzu</meaning>
       <example>Wir gehen ins Schwimmbad und dann in die Stadt.</example>
   </no> 
-  <no x="13">
+  <no x="x">
       <word>der Kurz</word>
       <meaning>kurs</meaning>
       <example>Zuerst gehe ich in den Deutschkurz und dann zum Arzt.</example>
   </no>
-  <no x="14">
+  <no x="x">
       <word>süchtig nach</word>
       <meaning>e bağımlı</meaning>
       <example>Ich bin süchtig nach Schkolade.</example>
   </no> 
-  <no x="15">
+  <no x="x">
       <word>die Ankunft</word>
       <meaning>varış</meaning>
       <example></example>
@@ -106,12 +106,12 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>karşılamak</meaning>
       <example>Holst du mich am Flughafen ab?</example>
   </no>    
-  <no x="21">
+  <no x="x">
       <word>die Bushaltestelle</word>
       <meaning>otobüs durağı</meaning>
       <example>Wo ist denn hier eine Bushaltestelle?</example>
   </no> 
-  <no x="22">
+  <no x="x">
       <word>der Kiosk</word>
       <meaning>küçük satış kulübesi</meaning>
       <example>Dann gehe ich noch zu dem Kiosk dort drüben und kaufe eine Zeitung.</example>
@@ -121,12 +121,12 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>kalkmak</meaning>
       <example>Wo fährt der Zug nach Berlin ab?</example>
   </no>  
-  <no x="24">
+  <no x="x">
       <word>der Buchladen</word>
       <meaning>kitapçı dükkanı</meaning>
       <example>Wo gibt es hier in der Nähe einen Buchladen?</example>
   </no> 
-  <no x="25">
+  <no x="x">
       <word>der Imbiss</word>
       <meaning>hafif yemek</meaning>
       <example>Gibt es hier einen Imbiss?</example>
@@ -166,7 +166,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>açmak</meaning>
       <example>Das Radio anmachen.</example>
   </no> 
-  <no x="33">
+  <no x="x">
       <word>aufmachen - hat aufgemacht</word>
       <meaning>açmak</meaning>
       <example>die Tür aufmachen</example>
@@ -181,12 +181,12 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning></meaning>
       <example></example>
   </no>   
-  <no x="36">
+  <no x="x">
       <word>der Strauß</word>
       <meaning>buket, demet</meaning>
       <example>ein Blumen Strauß</example>
   </no>
-  <no x="37">
+  <no x="x">
       <word>besichtigen - hat besichtigt</word>
       <meaning>gezmek, dolaşmak</meaning>
       <example>Sie sind für eine Woche als Tourist in Freiburg und möchten die Stadt mit dem Fahrrad besichtigen.</example>
@@ -251,7 +251,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>hazırlanmak</meaning>
       <example>Er hat die Schule beendet und bereitet sich auf sein Studium vor.</example>
   </no>  
-  <no x="48">
+  <no x="x">
       <word>wie</word>
       <meaning>gibi</meaning>
       <example>Sie liebt wie sein Vater die Natur.</example>
@@ -276,7 +276,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>ateş etmek</meaning>
       <example></example>
   </no>       
-  <no x="53">
+  <no x="x">
       <word>die Tradition</word>
       <meaning>gelenek</meaning>
       <example>Hör mal, das ist eine Tradition.</example>
@@ -336,7 +336,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>var</meaning>
       <example>Gibt es den Pullover auch in Weiß?</example>
   </no>   
-  <no x="65">
+  <no x="x">
       <word>der Gürtel</word>
       <meaning>kemer</meaning>
       <example></example>
@@ -376,7 +376,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>kutlamak</meaning>
       <example>In Deutschland feiern junge Leute Silvester meistens mit Freunden oder auch mit der Familie.</example>
   </no>       
-  <no x="73">
+  <no x="x">
       <word>meistens</word>
       <meaning>genellikle</meaning>
       <example></example>
@@ -386,12 +386,12 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>fişek eğlenceleri</meaning>
       <example></example>
   </no> 
-  <no x="75">
+  <no x="x">
       <word>anrufen - hat angerufen</word>
       <meaning>telefon etmek</meaning>
       <example>Hast du den Arzt angerufen?</example>
   </no>       
-  <no x="76">
+  <no x="x">
       <word>der Ausgang</word>
       <meaning>çıkış</meaning>
       <example>Wo ist denn der Ausgang?</example>
@@ -426,7 +426,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>içmek</meaning>
       <example>Ihr habt getrunken.</example>
   </no>      
-  <no x="83">
+  <no x="x">
       <word>wann</word>
       <meaning>ne zaman</meaning>
       <example>Wann macht ihr Urlaub?</example>
@@ -496,17 +496,17 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>olası, tahmin edildiğine göre</meaning>
       <example>Sie können voraussichtlich ab ende Mai wieder bei uns einkaufen.</example>
   </no>  
-  <no x="97">
+  <no x="x">
       <word>an wen</word>
       <meaning>kime</meaning>
       <example>An wen schreiben Sie?</example>
   </no>
-  <no x="98">
+  <no x="x">
       <word>der Prüfer</word>
       <meaning>sınavı yapan</meaning>
       <example>Kann die Prüfer den Text lesen?</example>
   </no>   
-  <no x="99">
+  <no x="x">
       <word>mündlich</word>
       <meaning>sözlü</meaning>
       <example>Die mündliche Prüfung hat drei Teile.</example>
@@ -516,12 +516,12 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>katılan</meaning>
       <example>Sie sprechen mit einer Prüferin und den anderen Teilnehmend.</example>
   </no>   
-  <no x="101">
-      <word>etwa (circa)</word>
-      <meaning>aşağı yukarı</meaning>
-      <example>Der Test dauert etwa 15 Minuten pro Gruppe.</example>
+  <no x="x">
+      <word>die Nutzung</word>
+      <meaning>yararlanma</meaning>
+      <example>Vielen Dank für die Nutzung der Jobbörse.</example>
   </no>   
-  <no x="102">
+  <no x="x">
       <word>sich vorstellen</word>
       <meaning>tanıtmak</meaning>
       <example>Sie stellen sich in der Gruppe vor.</example>
@@ -561,7 +561,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>in arasında</meaning>
       <example>Ludwig fühlt sich wie ein König unter Freunden.</example>
   </no>
-  <no x="110">
+  <no x="x">
       <word>danach</word>
       <meaning>ondan sonra</meaning>
       <example>Danach beginnt das schießen auf dem Schießstand.</example>
@@ -571,7 +571,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>hamile</meaning>
       <example>Sie ist schwanger: Bald bekommt Sie ein Baby.</example>
   </no>
-  <no x="112">
+  <no x="x">
       <word>verpassen - hat verpasst</word>
       <meaning>kaçırmak</meaning>
       <example>Maria hat das Flugzeug verpasst.</example>
@@ -581,7 +581,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>duygu, his</meaning>
       <example>Er hat ein komisches Gefühl.</example>
   </no>   
-  <no x="114">
+  <no x="x">
       <word>fühlen - fühlte - hat gefühlt</word>
       <meaning>hissetmek</meaning>
       <example>Mathias fühlt sich zuerz ganz hilflos und schwach.</example>
@@ -606,7 +606,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>asansör</meaning>
       <example></example>
   </no>       
-  <no x="119">
+  <no x="x">
       <word>die Bewerbung</word>
       <meaning>başvuru</meaning>
       <example></example>
@@ -637,7 +637,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example></example>
   </no>   
   <no x="125">
-      <word>der Unterlage</word>
+      <word>die Unterlagen</word>
       <meaning>belgeler</meaning>
       <example></example>
   </no>   
@@ -696,7 +696,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>nihayet, sonunda</meaning>
       <example>Schlißlich bist du gut wieder zu Hause angekommen, oder?</example>
   </no>    
-  <no x="137">
+  <no x="x">
       <word>fast</word>
       <meaning>neredeyse</meaning>
       <example>Ich habe fast das Flugzeug verpasst.</example>
@@ -706,7 +706,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>almak</meaning>
       <example>Auf der ganzen Reise habe ich nicht mal eine Tasse Kaffe bekommen.</example>
   </no>    
-  <no x="139">
+  <no x="x">
       <word>passieren - ist passiert</word>
       <meaning>olmak, cereyan etmek</meaning>
       <example>Was ist denn passiert?</example>
@@ -766,7 +766,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>sanat eseri</meaning>
       <example>Berühmte Kunstwerke sind der Madgeburger Reiter und der Magdeburger Dom.</example>
   </no>      
-  <no x="150">
+  <no x="x">
       <word>der Einwohner</word>
       <meaning>sakin</meaning>
       <example>Heute ist Braunschweig stadt hat etwa 240.000 Einwohner.</example>
@@ -781,7 +781,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>çöpe atmak</meaning>
       <example>Müll ist, was man nicht mehr braucht ung wegwirft.</example>
   </no>        
-  <no x="153">
+  <no x="x">
       <word>die Mülltonne</word>
       <meaning>çöp bidonu</meaning>
       <example>Müll wirft man in Mülltonnen und die Müllmänner holen ihn ab.</example>
@@ -841,7 +841,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>görünüş</meaning>
       <example>Sie sprechen über andere Leute, zum Beispiel über ihr Aussehen.</example>
   </no>
-  <no x="165">
+  <no x="x">
       <word>dauernd</word>
       <meaning>sürekli</meaning>
       <example>Sie ist dauernd allein.</example>
@@ -851,7 +851,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>yere koymak</meaning>
       <example>Er stellt seine Kisten vor dem Eingang ab.</example>
   </no>      
-  <no x="167">
+  <no x="x">
       <word>der Kinderwagen</word>
       <meaning>çocuk arabası</meaning>
       <example>Er stellt den Kinderwagen vor dem Aufzug ab.</example>
@@ -866,7 +866,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>evlenme yıldönümü</meaning>
       <example>Herr un Frau Wagner haben bald ihren 20. Hochzeitstag.</example>
   </no>
-  <no x="170">
+  <no x="x">
       <word>fernsehen - hat ferngesehen</word>
       <meaning>televizyon seyretmek</meaning>
       <example>Die Wagners haben ferngesehen.</example>
@@ -906,7 +906,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>kontrol etmek</meaning>
       <example>Sei doch nett und sieh im Briefkasten nach.</example>
   </no> 
-  <no x="177">
+  <no x="x">
       <word>gegen</word>
       <meaning>e doğru</meaning>
       <example>Ich bin gegen 19 Uhr zurück.</example>
@@ -939,7 +939,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
   <no x="183">
       <word>aufpassen - hat aufgepasst</word>
       <meaning>1-bakmak 2-dikkat etmek</meaning>
-      <example>Sie müssen denHund aufpassen.</example>       
+      <example>Sie müssen den Hund aufpassen.</example>       
    </no>
   <no x="184">
       <word>ärgerlich</word>
@@ -971,17 +971,17 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>tadı hoşuna gitmek</meaning>
       <example>nur der Kaffe schmeckt Maria gar nicht.</example>
   </no> 
-  <no x="190">
+  <no x="x">
       <word>der Kaiser</word>
       <meaning>imparator</meaning>
       <example>Morgens essen wie ein Keiser.</example>
   </no>  
-  <no x="191">
+  <no x="x">
       <word>ehrlich gesagt</word>
       <meaning>doğrusu</meaning>
       <example>Ehrlich gesagt stehe ich fast immer zu spät auf.</example>
   </no>   
-  <no x="192">
+  <no x="x">
       <word>im Stehen</word>
       <meaning>ayakta</meaning>
       <example>Manchmal habe ich ein bisschen Zeit, dann esse ich ganz schnell im Stehen ein paar Cornflakes mit Milch.</example>
@@ -1006,7 +1006,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>yoğun, güçlü</meaning>
       <example>Ein herzhaftes Frühstück mit Wurst und Käse mag ich nicht so gern.</example>
   </no>  
-  <no x="197">
+  <no x="x">
       <word>im setzen</word>
       <meaning>oturarak</meaning>
       <example>Frühstücken Sie im Stehen oder im Setzen?</example>
@@ -1061,7 +1061,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>buna</meaning>
       <example>In Deutschland sagen wir "Imbiss" dazu.</example>
   </no>      
-  <no x="208">
+  <no x="x">
       <word>die Mahlzeit</word>
       <meaning>bir öğünlük yemek</meaning>
       <example>Wir haben doch ein wunderbares eigenes Wort für die Schnelle Mahlzeit.</example>
@@ -1072,7 +1072,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Nirgens auf der Welt gibr es so viele unterschiedene Wurstarten wie bei uns.</example>
   </no>  
 
-  <no x="210">
+  <no x="x">
       <word>schließlich</word>
       <meaning>nihayet</meaning>
       <example>Sandwiches gibt es schließlich in vielen Ländern, genau wie Hamburger oder Cheeseburger.</example>
@@ -1087,7 +1087,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>harika, çok güzel</meaning>
       <example>Konnopkes Soße wird seit Jahrzehnten nac einem Rezept hergestellt und schmect einfach himmlisch.</example>
   </no>   
-  <no x="213">
+  <no x="x">
       <word>fett</word>
       <meaning>yağlı</meaning>
       <example>Wurst mag ich nicht. Die ist zu fett.</example>
@@ -1117,7 +1117,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>aynı şekilde</meaning>
       <example>Das ist ganz Normal. Bei uns ist das genauso.</example>
   </no>
-  <no x="219">
+  <no x="x">
       <word>anders</word>
       <meaning>farklı</meaning>
       <example>Das ist ganz Normal. Bei uns ist das anders.</example>
@@ -1132,7 +1132,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>hay hay</meaning>
       <example>Ist hier noch frei? Aber sicher. Nehmen Sie doch Platz.</example>
   </no> 
-  <no x="222">
+  <no x="x">
       <word>besetzt</word>
       <meaning>dolu, tutulmuş</meaning>
       <example>Ist der Platz noch frei? Tut mir leid. Der Platz ist besetzt.</example>
@@ -1167,17 +1167,17 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>çeşit</meaning>
       <example>Von hier kommen die, Basler Leckerli, eine Art Lebkuchen mit viel Honig und Nüssen.</example>
   </no>    
-  <no x="229">
+  <no x="x">
       <word>herstellen - hat hergestellt</word>
       <meaning>üretmek</meaning>
       <example>Hier stellt man Produkte in großer Zahl her.</example>
   </no>    
-  <no x="230">
+  <no x="x">
       <word>etwa</word>
       <meaning>acaba</meaning>
       <example>Fotografieren Sie etwa unseren Brötchen?</example>
   </no>  
-  <no x="231">
+  <no x="x">
       <word>eigen</word>
       <meaning>kendi</meaning>
       <example>Er hat eigene Bäckerei.</example>
@@ -1217,7 +1217,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>tekrar tekrar</meaning>
       <example>Bieten Sie den Kollegen auch immer wieder Hilfe an.</example>
   </no>       
-  <no x="239">
+  <no x="x">
       <word>arrogant</word>
       <meaning>kibirli</meaning>
       <example>Ein wichtiger Rat: seien Sie dabei bitte nicht arrogant.</example>
@@ -1283,21 +1283,21 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Sie will nur stundenweise arbeiten, wenn das Baby da ist.</example>
   </no>  
   <no x="252">
-      <word>abschließend - schloss ab - hat abgeschlossen</word>
+      <word>abschließen - schloss ab - hat abgeschlossen</word>
       <meaning>kilitlemek</meaning>
       <example>Wenn Sie gehen abends nach Hause, schließ bitte die Tür ab.</example>
   </no>  
   <no x="253">
       <word>die Lust</word>
-      <meaning>Wenn du keine Lust mehr auf deinen Job hast, dann kannst du ja in einer Bäckerei arbeiten.</meaning>
-      <example></example>
+      <meaning>istek, arzu</meaning>
+      <example>Wenn du keine Lust mehr auf deinen Job hast, dann kannst du ja in einer Bäckerei arbeiten.</example>
   </no> 
-  <no x="254">
+  <no x="x">
       <word>das Medikament,e</word>
       <meaning>ilaç</meaning>
       <example>Wenn Sie Kopfschmerzen haben, dann finden Sie Medikamente in dem Schrank da vorn.</example>
   </no>      
-  <no x="255">
+  <no x="x">
       <word>durch</word>
       <meaning>sayesinde</meaning>
       <example>Ludwig ist gestorben, durch einen Schuss in den Kopf.</example>
@@ -1342,7 +1342,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>tatil günü</meaning>
       <example>Wie viele Feiertage gibt es durchschnittlich in Deutschland?</example>
   </no>     
-  <no x="264">
+  <no x="x">
       <word>keine Ahnung</word>
       <meaning>fikrim yok</meaning>
       <example>Freitage in Deutschland - keine Ahnung.</example>
@@ -1362,7 +1362,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>size göre</meaning>
       <example>Wie viele tage Urlaub im Jahr sollte man ihrer Meinung nach haben?</example>
   </no> 
-  <no x="268">
+  <no x="x">
       <word>Wie oft?</word>
       <meaning>ne kadar sık?</meaning>
       <example>Wie oft machen Sie Urlaub im Jahr?</example>
@@ -1392,7 +1392,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>kartal</meaning>
       <example>Adler machen tolle Nester - besser als jeder Handwerk.</example>
   </no>   
-  <no x="274">
+  <no x="x">
       <word>leicht</word>
       <meaning>kolay</meaning>
       <example>So ein Vogel hat auch kein leichtes Leben.</example>
@@ -1412,7 +1412,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>karar vermek</meaning>
       <example>Sie können sich wohl noch nicht entscheiden.</example>
   </no> 
-  <no x="278">
+  <no x="x">
       <word>die Wendung</word>
       <meaning>deyim</meaning>
       <example>wichtige Wendungen</example>
@@ -1427,7 +1427,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>dahice</meaning>
       <example>Das Ding ist klein und genial.</example>
   </no> 
-  <no x="281">
+  <no x="x">
       <word>das Gepäck</word>
       <meaning>bagaj</meaning>
       <example>Bei vielen gefährlichen Expeditionen ist es im Gepäck.</example>
@@ -1508,16 +1508,156 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Victorinox stellen etwa 25 Millionen Messer pro Jahr her. 90 Prozent davon gehen in den Export.</example>
   </no>   
   <no x="295">
-      <word></word>
-      <meaning></meaning>
-      <example></example>
+      <word>generieren - hat generiert</word>
+      <meaning>üretmek</meaning>
+      <example>Dies ist eine automatisch generierte Nachricht.</example>
   </no>   
   <no x="296">
+      <word>entsprechen</word>
+      <meaning>uyma, denk gelmek</meaning>
+      <example>Sollte dein Profil unseren Anforderungen entsprechen.</example>
+  </no>                
+  <no x="297">
+      <word>der Anhang</word>
+      <meaning>ek</meaning>
+      <example>Im Anhang finden Sie meine Unterlagen.</example>
+  </no>        
+  <no x="298">
+      <word>das Verständis</word>
+      <meaning>anlayış</meaning>
+      <example>Bitte haben Sie Värstandis, dass wir hierfür etwas Zeit benötigen.</example>
+  </no>    
+  <no x="299">
+      <word>hierfür</word>
+      <meaning>bunun için</meaning>
+      <example>Bitte haben Sie Värstandis, dass wir hierfür etwas Zeit benötigen.</example>
+  </no>                           
+  <no x="300">
+      <word>benötigen - benötigte - hat benötigt</word>
+      <meaning>ihtiyacı olmak</meaning>
+      <example>Bitte haben Sie Värstandis, dass wir hierfür etwas Zeit benötigen.</example>
+  </no>                         
+  <no x="301">
+      <word>erfahren - erfuhr - hat erfahren</word>
+      <meaning>öğrenmek</meaning>
+      <example>Was ehfahren Sie über das Schweizer Taschenmesser?</example>
+  </no>                          
+  <no x="301">
+      <word>berichten - berichtete - hat berichtet</word>
+      <meaning>anlatmak</meaning>
+      <example>Berichten Sie der anderen Gruppe.</example>
+  </no>                          
+  <no x="302">
+      <word>bügeln - bügelte - hat gebügelt</word>
+      <meaning>ütülemek</meaning>
+      <example>Sie muss bügeln.</example>
+  </no> 
+  <no x="303">
+      <word>nachher</word>
+      <meaning>sonra</meaning>
+      <example>Mathe kannst du auch nachher machen.</example>
+  </no>   
+  <no x="304">
+      <word>sich bewegen - bewegte -hat sich bewegt</word>
+      <meaning>hareket etmek</meaning>
+      <example>Du ist zu viel und du bewegt dich zu wenig.</example>
+  </no>   
+  <no x="305">
+      <word>völlig</word>
+      <meaning>tamamıyla</meaning>
+      <example>Mein Bauch ist völlig in Ordnung.</example>
+  </no>   
+  <no x="306">
+      <word>regelmäsig</word>
+      <meaning>düzenli olarak</meaning>
+      <example>Im Winter gehe ich regelmäsig ins Hallenbad.</example>
+  </no>   
+  <no x="307">
+      <word>das Hallenbad</word>
+      <meaning>kapalı yüzme havuzu</meaning>
+      <example>Im Winter gehe ich regelmäsig ins Hallenbad.</example>
+  </no> 
+  <no x="308">
+      <word>das Freibad</word>
+      <meaning>açık yüzme havuzu</meaning>
+      <example>Im Winter gehe ich regelmäsig ins Freibad.</example>
+  </no> 
+  <no x="309">
+      <word>in der letzten Zeit</word>
+      <meaning>son zamanlarda</meaning>
+      <example></example>
+  </no> 
+  <no x="310">
+      <word>sich interessieren - interessierte - hat interessiert</word>
+      <meaning>ilgilenmek</meaning>
+      <example>Wir Männer interessieren uns nicht für Gymnastik.</example>
+  </no>"
+  <no x="311">
+      <word>sich legen - legte - hat gelegt</word>
+      <meaning>yatmak</meaning>
+      <example>Ich möchte mich lieber in die Badewanne legen.</example>
+  </no>
+  <no x="312">
+      <word>sich konzentrieren - konzentrierte - hat konzentriert</word>
+      <meaning>dikkatini toplamak</meaning>
+      <example>Wie soll man sich bei dem Lärm konzentrieren?</example>
+  </no>
+  <no x="313">
+      <word>sich ausruhen - ruhte aus - hat ausgeruht</word>
+      <meaning>dinlenmek</meaning>
+      <example>Ruhen Sie sich danach fünf Minuten aus</example>
+  </no>
+  <no x="314">
+      <word>ausziehen - zog aus - ist ausgezogen</word>
+      <meaning>çıkarmak</meaning>
+      <example>Ziehen Sie die Schuhe aus.</example>
+  </no>
+  <no x="315">
+      <word>runterfallen</word>
+      <meaning>aşağıya düşürmek</meaning>
+      <example>Sie darf nicht runterfallen</example>
+  </no>
+  <no x="316">
+      <word>sich ernähren - ernährte - hat ernährt</word>
+      <meaning>beslenmek</meaning>
+      <example>Sie müssen sich Gesund ernähren.</example>
+  </no>
+  <no x="317">
+      <word>sich ärgern (über) - ägerte - hat geärgert</word>
+      <meaning>kızmak</meaning>
+      <example>Ärgern Sie sich nicht so viel!</example>
+  </no>
+  <no x="318">
+      <word>stärken - stärkte - hat gestärkt</word>
+      <meaning>kuvvetlendirmek</meaning>
+      <example>Stärken Sie ihr Immunsystem.</example>
+  </no> 
+  <no x="319">
       <word></word>
       <meaning></meaning>
       <example></example>
-  </no>                
-                    
+  </no> 
+  <no x="320">
+      <word></word>
+      <meaning></meaning>
+      <example></example>
+  </no> 
+  <no x="321">
+      <word></word>
+      <meaning></meaning>
+      <example></example>
+  </no> 
+  <no x="322">
+      <word></word>
+      <meaning></meaning>
+      <example></example>
+  </no> 
+  <no x="323">
+      <word></word>
+      <meaning></meaning>
+      <example></example>
+  </no> 
+                                                      
 </language>
 
 <!--
