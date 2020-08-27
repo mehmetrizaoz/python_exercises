@@ -1625,7 +1625,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
   <no x="317">
       <word>sich ärgern (über) - ägerte - hat geärgert</word>
       <meaning>kızmak</meaning>
-      <example>Ärgern Sie sich nicht so viel!</example>
+      <example>Ich hoffe, du zufrieden mit dem Ergebnis und ärgerst dich nicht mehr über deinen Professor.</example>
   </no>
   <no x="318">
       <word>stärken - stärkte - hat gestärkt</word>
@@ -1633,30 +1633,53 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <example>Stärken Sie ihr Immunsystem.</example>
   </no> 
   <no x="319">
-      <word></word>
-      <meaning></meaning>
-      <example></example>
+      <word>immer noch</word>
+      <meaning>hala</meaning>
+      <example>Träumst du immer noch jede Nacht von deinen Prüfungen?</example>
   </no> 
   <no x="320">
-      <word></word>
-      <meaning></meaning>
-      <example></example>
+      <word>zufrieden mit</word>
+      <meaning>den memnun</meaning>
+      <example>Ich hoffe, du zufrieden mit dem Ergebnis.</example>
   </no> 
   <no x="321">
-      <word></word>
-      <meaning></meaning>
-      <example></example>
+      <word>nicht mehr</word>
+      <meaning>artık</meaning>
+      <example>Ich hoffe, du zufrieden mit dem Ergebnis und ärgerst dich nicht mehr über deinen Professor.</example>
   </no> 
   <no x="322">
-      <word></word>
-      <meaning></meaning>
-      <example></example>
+      <word>Lust haben auf etwas</word>
+      <meaning>canı birşey istemek</meaning>
+      <example>Hast du mal wieder Lust auf etwas bewegung?
+      Ich habe keine Lusf darauf.
+      Worauf hast du dann Lust?
+      </example>
   </no> 
   <no x="323">
+      <word>sich (mit jdm) verabreden - verabredete - hat verabredet</word>
+      <meaning>biriyle sözleşmek</meaning>
+      <example>Ich habe mich mit ihr am Samstagabend verabredet.</example>
+  </no> 
+  <no x="324">
+      <word>sich bei jdm über etw beschweren - beschwerte - hat beschwert</word>
+      <meaning>birine birşey şikayet etmek</meaning>
+      <example>Auch Sandra hat sich schon über dich beschwert.</example>
+  </no> 
+  <no x="325">
+      <word>träumen von - träumte - hat geträumt</word>
+      <meaning>rüya görmek</meaning>
+      <example>Trumst du immer noch jede Nacht von deinen Prüfungen?</example>
+  </no> 
+  <no x="326">
+      <word>am meisten</word>
+      <meaning>en fazla</meaning>
+      <example>Sie interessieren sich am meisten für Musik.</example>
+  </no> 
+  <no x="327">
       <word></word>
       <meaning></meaning>
       <example></example>
-  </no> 
+  </no>         
                                                       
 </language>
 
