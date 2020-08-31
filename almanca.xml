@@ -14,7 +14,7 @@
       <meaning>tesadüf</meaning>
       <example>Also, so ein Zufall</example>
   </no>   
-  <no x="4">
+  <no x="x">
       <word>ausmachen, hat ausgemacht</word>
       <meaning>söndürmek</meaning>
       <example>Du musst deine Zigarette ausmachen.
@@ -35,7 +35,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>kararlaştırmak</meaning>
       <example>Einen Termin für Dienstag vereinbaren.</example>
   </no> 
-  <no x="8">
+  <no x="x">
       <word>verschieben - hat verschoben</word>
       <meaning>ertelemek</meaning>
       <example>Den Termin von Dienstag auf Freitag verschieben.
@@ -201,7 +201,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>kiralama</meaning>
       <example>Fahrradverleih</example>
   </no>   
-  <no x="40">
+  <no x="x">
       <word>erledigen - hat erledigt</word>
       <meaning>halletmek, yerine getirmek</meaning>
       <example>Student mit Pkw erledigt alle Ihre Einkäufe</example>
@@ -266,7 +266,7 @@ Könten Sie bitte dein Handy ausmachen?</example>
       <meaning>gümbürdemek</meaning>
       <example>Im Wohnzimmer kracht ein Schuss und noch einer!</example>
   </no> 
-  <no x="51">
+  <no x="x">
       <word>das ist meine Sache</word>
       <meaning>bu benim bileceğim iş</meaning>
       <example>Schißen, das ist nicht meine Sache.</example>
@@ -322,12 +322,12 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>aynı anda</meaning>
       <example>Aber können Sie auch rückwärts fahren und dabei Geige spielen?</example>
   </no>      
-  <no x="62">
+  <no x="x">
       <word>der Absatz</word>
       <meaning>paragraf</meaning>
       <example>Lesen Sie den ersten Absatz.</example>
   </no>
-  <no x="63">
+  <no x="x">
       <word>anprobieren - hat anprobiert</word>
       <meaning>prova etmek, denemek</meaning>
       <example>Wo kann ich den Rock anprobieren?</example>
@@ -372,7 +372,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>tercihen</meaning>
       <example>Trinkst du einen Kafee oder möchtest du lieber einen Tee?</example>
   </no>    
-  <no x="72">
+  <no x="x">
       <word>feiern - hat gefeiert</word>
       <meaning>kutlamak</meaning>
       <example>In Deutschland feiern junge Leute Silvester meistens mit Freunden oder auch mit der Familie.</example>
@@ -472,7 +472,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>anons</meaning>
       <example>In Teil 3 hören Sie fünf Ansagen.</example>
   </no>
-  <no x="92">
+  <no x="x">
       <word>das Gewitter</word>
       <meaning>fırtına</meaning>
       <example>schlimmes Gewitter</example>
@@ -512,7 +512,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>sözlü</meaning>
       <example>Die mündliche Prüfung hat drei Teile.</example>
   </no>   
-  <no x="100">
+  <no x="x">
       <word>teilnehmend</word>
       <meaning>katılan</meaning>
       <example>Sie sprechen mit einer Prüferin und den anderen Teilnehmend.</example>
@@ -602,7 +602,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>afedersiniz</meaning>
       <example></example>
   </no> 
-  <no x="118">
+  <no x="x">
       <word>der Ausflug</word>
       <meaning>asansör</meaning>
       <example></example>
@@ -702,7 +702,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>neredeyse</meaning>
       <example>Ich habe fast das Flugzeug verpasst.</example>
   </no>    
-  <no x="138">
+  <no x="x">
       <word>bekommen - hat bekommen</word>
       <meaning>almak</meaning>
       <example>Auf der ganzen Reise habe ich nicht mal eine Tasse Kaffe bekommen.</example>
@@ -807,7 +807,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>dışarı</meaning>
       <example>Ich komme raus.</example>
   </no>
-  <no x="158">
+  <no x="x">
       <word>runter - herunter - hinunter</word>
       <meaning>aşağı</meaning>
       <example>Dann bringe ich mal den Müll runter.</example>
@@ -817,7 +817,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>içeriye</meaning>
       <example>Papier kommt rein.</example>
   </no> 
-  <no x="160">
+  <no x="x">
       <word>rauf - hinauf - herauf</word>
       <meaning>yukarıya</meaning>
       <example>Kommen Sie doch rauf!</example>
@@ -997,7 +997,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>ara sıra</meaning>
       <example>Und ab und zu ein Croissant</example>
   </no>
-  <no x="195">
+  <no x="x">
       <word>frisch gepressed</word>
       <meaning>taze sıkılmış</meaning>
       <example>Oft trinken wir sogar Orangensaft, frisch gepresst.</example>
@@ -1027,7 +1027,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>mikrodalga</meaning>
       <example></example>
   </no>  
-  <no x="201">
+  <no x="x">
       <word>zu dritt</word>
       <meaning>üç kişi</meaning>
       <example>Verteilen Sie die Karten und spielen Sie zu dritt.</example>
@@ -1143,7 +1143,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>seçmek</meaning>
       <example>Suchen Sie eine Spezialität aus.</example>
   </no>   
-  <no x="x">
+  <no x="224">
       <word>das Ergebnis</word>
       <meaning>sonuç</meaning>
       <example>Präsentieren Sie Ihre Ergebnisse im Kurs.</example>
@@ -1163,7 +1163,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>toplamak</meaning>
       <example>Probieren Sie von allen süßen Spezilitäten je 100 Gramm und zählen Sie am Ende die Kalorien zusammen.</example>
   </no>    
-  <no x="228">
+  <no x="x">
       <word>die Art</word>
       <meaning>çeşit</meaning>
       <example>Von hier kommen die, Basler Leckerli, eine Art Lebkuchen mit viel Honig und Nüssen.</example>
@@ -1184,9 +1184,9 @@ jeweils ab dem 1.Samstag im Monat</example>
       <example>Er hat eigene Bäckerei.</example>
   </no>  
   <no x="232">
-      <word>der Bezuch</word>
+      <word>der Besuch</word>
       <meaning>konuk, misafir</meaning>
-      <example>Sie haben Bezuch.</example>
+      <example>Sie haben Besuch.</example>
   </no>  
   <no x="233">
       <word>ausgeben - hat ausgegeben</word>
@@ -1203,7 +1203,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>dikkate almak, hesaba katmak</meaning>
       <example>Was Sie beachten sollten</example>
   </no>  
-  <no x="236">
+  <no x="x">
       <word>beenden - hat beendet</word>
       <meaning>bitirmek</meaning>
       <example>Sie haben Ihre Ausbildung beendet.</example>
@@ -1233,7 +1233,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>mümkün olduğu kadar hızlı</meaning>
       <example>Merken Sie sich möglichst schnell die Namen von Ihren Kollegen.</example>
   </no>      
-  <no x="242">
+  <no x="x">
       <word>übertreiben</word>
       <meaning>abartmak</meaning>
       <example>Machen Sie ruhig ein paar Überstunden, aber übertreiben Sie nicht.</example>
@@ -1378,7 +1378,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>yetenek</meaning>
       <example>Damit erkennen Sie Ihre Begabung und können dann den richtigen Beruf wählen.</example>
   </no>                                     
-  <no x="271">
+  <no x="x">
       <word>das Symbol</word>
       <meaning>sembol</meaning>
       <example>Am Ende haben Sie zwei oder mehr Sätze mit demselben Symbol.</example>
@@ -1493,12 +1493,12 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>endüstriyel</meaning>
       <example>Sie ist heute der größte industrielle Arbeitgeber in Kanton Schwyz.</example>
   </no> 
-  <no x="292">
+  <no x="x">
       <word>der Gründer</word>
       <meaning>kurucu</meaning>
       <example>Der jetzige Chef, Carl Elsener IV., ist der Urenkel des Firmengründers.</example>
   </no> 
-  <no x="293">
+  <no x="x">
       <word>jetzig</word>
       <meaning>şimdiki</meaning>
       <example>Der jetzige Chef, Carl Elsener IV., ist der Urenkel des Firmengründers.</example>
@@ -1523,7 +1523,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>ek</meaning>
       <example>Im Anhang finden Sie meine Unterlagen.</example>
   </no>        
-  <no x="298">
+  <no x="x">
       <word>das Verständis</word>
       <meaning>anlayış</meaning>
       <example>Bitte haben Sie Värstandis, dass wir hierfür etwas Zeit benötigen.</example>
@@ -1563,7 +1563,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>hareket etmek</meaning>
       <example>Du ist zu viel und du bewegt dich zu wenig.</example>
   </no>   
-  <no x="305">
+  <no x="x">
       <word>völlig</word>
       <meaning>tamamıyla</meaning>
       <example>Mein Bauch ist völlig in Ordnung.</example>
@@ -1583,7 +1583,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>açık yüzme havuzu</meaning>
       <example>Im Winter gehe ich regelmäsig ins Freibad.</example>
   </no> 
-  <no x="309">
+  <no x="x">
       <word>in der letzten Zeit</word>
       <meaning>son zamanlarda</meaning>
       <example></example>
@@ -1624,7 +1624,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <example>Sie müssen sich Gesund ernähren.</example>
   </no>
   <no x="317">
-      <word>sich ärgern (über) - ägerte - hat geärgert</word>
+      <word>sich ärgern (über) - ärgerte - hat geärgert</word>
       <meaning>kızmak</meaning>
       <example>Ich hoffe, du zufrieden mit dem Ergebnis und ärgerst dich nicht mehr über deinen Professor.</example>
   </no>
@@ -1638,12 +1638,12 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>hala</meaning>
       <example>Träumst du immer noch jede Nacht von deinen Prüfungen?</example>
   </no> 
-  <no x="320">
+  <no x="x">
       <word>zufrieden mit</word>
       <meaning>den memnun</meaning>
       <example>Ich hoffe, du zufrieden mit dem Ergebnis.</example>
   </no> 
-  <no x="321">
+  <no x="x">
       <word>nicht mehr</word>
       <meaning>artık</meaning>
       <example>Ich hoffe, du zufrieden mit dem Ergebnis und ärgerst dich nicht mehr über deinen Professor.</example>
@@ -1671,7 +1671,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>rüya görmek</meaning>
       <example>Träumst du immer noch jede Nacht von deinen Prüfungen?</example>
   </no> 
-  <no x="326">
+  <no x="x">
       <word>am meisten</word>
       <meaning>en fazla</meaning>
       <example>Sie interessieren sich am meisten für Musik.</example>
@@ -1711,7 +1711,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>uzman</meaning>
       <example></example>
   </no>  
-  <no x="334">
+  <no x="x">
       <word>besteigen - bestieg - hat bestiegen</word>
       <meaning>çıkmak</meaning>
       <example>Er hat dreimal den Mount Everest bestiegen.</example>
@@ -1823,7 +1823,7 @@ Erinneren Sie sich daran?
       <meaning>tahmin</meaning>
       <example>Lesen Sie die Texte und überprüfen Sie Ihre Vermutung.</example>
   </no> 
-  <no x="356">
+  <no x="x">
       <word>gründen - gründete - hat gegründet</word>
       <meaning>kurmak</meaning>
       <example>Mit 29 geht er in die Vereinigten Staaten, studiert dort und gründet eine Chemiefirma.</example>
@@ -1833,7 +1833,7 @@ Erinneren Sie sich daran?
       <meaning>bitirme sınavı</meaning>
       <example></example>
   </no>
-  <no x="358">
+  <no x="x">
       <word>das Gegenteil</word>
       <meaning>ters, zıt</meaning>
       <example>Wie heißt das Gegenteil?</example>
@@ -1864,10 +1864,40 @@ Erinneren Sie sich daran?
       <example>Bei mir ist es genau andersherum. Ich will nicht studieren, aber ich muss anscheinend.</example>
   </no> 
   <no x="364">
+      <word>als</word>
+      <meaning>rken, diği zaman</meaning>
+      <example>Was wolltest du als Jegentliche werden?</example>
+  </no>
+  <no x="365">
+      <word>der Tierarzt</word>
+      <meaning>veteriner</meaning>
+      <example>Du wolltest als Kind Tierarzt werden.</example>
+  </no>
+  <no x="366">
+      <word>der Anwalt</word>
+      <meaning>avukat</meaning>
+      <example>Jetzt bin ich Anwalt von Beruf.</example>
+  </no>
+  <no x="367">
+      <word>freiwillig</word>
+      <meaning>gönüllü</meaning>
+      <example></example>
+  </no>   
+  <no x="368">
+      <word>zuerst</word>
+      <meaning>önce</meaning>
+      <example>Ich war zuerst im Kindergarten und dann auf der Grundschule.</example>
+  </no>   
+  <no x="369">
       <word></word>
       <meaning></meaning>
       <example></example>
-  </no>                                              
+  </no>   
+  <no x="370">
+      <word></word>
+      <meaning></meaning>
+      <example></example>
+  </no>                                                          
 </language>
 
 <!--
@@ -1875,6 +1905,20 @@ Erinneren Sie sich daran?
  Der Bus zum Flughafen hat ein Rad verloren.
  Ihre Schwiegermutter hift bei der Hausarbeit.
  Das wäre nicht nötig gewesen.
+ 
+ Er ist sauer, weil er morgen nicht arbeiten möchte.
+Er ist glücklich, weil seine Freundin ihn abholt.
+Maria kommt nach Deutschland, weil sie Freunde in Deutschland hat.
+Warum ist er müde? Weil er die ganze Nacht nicht geschlafen hat.
+
+Kurt macht das Taxifahren Spaß, wenn er interessante Fahrgäste hat.
+Susanne will nur stundenweise arbeiten, wenn das Baby ds ist.
+
+Ich bin richtig frog, dass du bei uns bist.
+Es tut mir leid, dass du Stress mit der Schule hast.
+Papa meint, daa ich faul bin.
+Ich finde es nich so schlimm, dass du zwei fünften hast.
+Es ist aber wichtig, dass man eine gute Ausbildung hat.
 -->
 
 
