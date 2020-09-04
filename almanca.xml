@@ -432,7 +432,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>ne zaman</meaning>
       <example>Wann macht ihr Urlaub?</example>
   </no> 
-  <no x="84">
+  <no x="x">
       <word>der Unfall</word>
       <meaning>kaza</meaning>
       <example>Ich hatte einen Unfall.</example>
@@ -477,10 +477,10 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>fırtına</meaning>
       <example>schlimmes Gewitter</example>
   </no>
-  <no x="93">
+  <no x="x">
       <word>als</word>
       <meaning>den daha</meaning>
-      <example>Im Text gibt es mehr Informationen im Text, als Sie brauchen</example>
+      <example>Im Text gibt es mehr Informationen, als Sie brauchen</example>
   </no>
   <no x="94">
       <word>gebraucht</word>
@@ -567,7 +567,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>ondan sonra</meaning>
       <example>Danach beginnt das schießen auf dem Schießstand.</example>
   </no>
-  <no x="111">
+  <no x="x">
       <word>schwanger</word>
       <meaning>hamile</meaning>
       <example>Sie ist schwanger: Bald bekommt Sie ein Baby.</example>
@@ -837,7 +837,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>1- dedikodu yapmak 2- gevezelik etmek</meaning>
       <example>Ilse und Heidrun tratschen.</example>
   </no>
-  <no x="164">
+  <no x="x">
       <word>das Aussehen</word>
       <meaning>görünüş</meaning>
       <example>Sie sprechen über andere Leute, zum Beispiel über ihr Aussehen.</example>
@@ -857,7 +857,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>çocuk arabası</meaning>
       <example>Er stellt den Kinderwagen vor dem Aufzug ab.</example>
   </no>  
-  <no x="168">
+  <no x="x">
       <word>bereits</word>
       <meaning>daha şimdiden</meaning>
       <example>Er hat bereits große Kinder.</example>
@@ -1098,7 +1098,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>acı</meaning>
       <example>Ich esse gern scharf.</example>
   </no>     
-  <no x="215">
+  <no x="x">
       <word>gleich</word>
       <meaning>hemen</meaning>
       <example>Bleiben Sie nicht zu lange. Aber auch nicht gleich dem Essen nach Hause.</example>
@@ -1183,7 +1183,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>kendi</meaning>
       <example>Er hat eigene Bäckerei.</example>
   </no>  
-  <no x="232">
+  <no x="x">
       <word>der Besuch</word>
       <meaning>konuk, misafir</meaning>
       <example>Sie haben Besuch.</example>
@@ -1268,7 +1268,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>yorucu</meaning>
       <example></example>
   </no>     
-  <no x="249">
+  <no x="x">
       <word>stundenweise</word>
       <meaning>saat hesabıyla</meaning>
       <example>Wenn das Baby da ist, will sie für drei Monate nur stundenwiese arbeiten.</example>
@@ -1401,7 +1401,7 @@ jeweils ab dem 1.Samstag im Monat</example>
   <no x="275">
       <word>die Aussage</word>
       <meaning>ifade</meaning>
-      <example>Welche Aussage passt?</example>
+      <example>Welche Aussage passt zu Ihnen?</example>
   </no> 
   <no x="276">
       <word>eindeutig</word>
@@ -1598,7 +1598,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>yatmak</meaning>
       <example>Ich möchte mich lieber in die Badewanne legen.</example>
   </no>
-  <no x="312">
+  <no x="x">
       <word>sich konzentrieren - konzentrierte - hat konzentriert</word>
       <meaning>dikkatini toplamak</meaning>
       <example>Wie soll man sich bei dem Lärm konzentrieren?</example>
@@ -1606,7 +1606,8 @@ jeweils ab dem 1.Samstag im Monat</example>
   <no x="313">
       <word>sich ausruhen - ruhte aus - hat ausgeruht</word>
       <meaning>dinlenmek</meaning>
-      <example>Ruhen Sie sich danach fünf Minuten aus</example>
+      <example>Ruhen Sie sich dana
+      ch fünf Minuten aus</example>
   </no>
   <no x="314">
       <word>ausziehen - zog aus - ist ausgezogen</word>
@@ -1736,7 +1737,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>yukarı çıkmak</meaning>
       <example>Gehen Sie die Treppen nicht nur zu Fuß hoch, wenn der Ausflug außer Betrieb ist.</example>
   </no>
-  <no x="339">
+  <no x="x">
       <word>radeln - radelte - ist geradelt</word>
       <meaning>bisikletle gitmek</meaning>
       <example>Wenn man wie ich um die Welt radeln will, dann reicht eine halbe Stunde Training pro Tag natürlich nicht.</example>
@@ -1786,7 +1787,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>giyinmek</meaning>
       <example></example>
   </no>   
-  <no x="349">
+  <no x="x">
       <word>sich erinnern an</word>
       <meaning>hatırlamak</meaning>
       <example>Woran erinnerst du dich?
@@ -1868,7 +1869,7 @@ Erinneren Sie sich daran?
       <meaning>rken, diği zaman</meaning>
       <example>Was wolltest du als Jegentliche werden?</example>
   </no>
-  <no x="365">
+  <no x="x">
       <word>der Tierarzt</word>
       <meaning>veteriner</meaning>
       <example>Du wolltest als Kind Tierarzt werden.</example>
@@ -1889,36 +1890,163 @@ Erinneren Sie sich daran?
       <example>Ich war zuerst im Kindergarten und dann auf der Grundschule.</example>
   </no>   
   <no x="369">
-      <word></word>
-      <meaning></meaning>
+      <word>die Gesellschaft</word>
+      <meaning>toplum</meaning>
       <example></example>
   </no>   
   <no x="370">
+      <word>spielerisch</word>
+      <meaning>oyun gibi</meaning>
+      <example></example>
+  </no> 
+  <no x="371">
+      <word>der Frühjahrsputz</word>
+      <meaning>bahar temizliği</meaning>
+      <example>Vergessen Sie beim Frühjahrsputz Ihren Computer nicht!</example>
+  </no>   
+  <no x="372">
+      <word>die Voraussetzung</word>
+      <meaning>koşul, şart</meaning>
+      <example></example>
+  </no> 
+  <no x="373">
+      <word>löschen</word>
+      <meaning>silmek</meaning>
+      <example>Wie lösche ich Dateien?</example>
+  </no>   
+  <no x="374">
+      <word>die Fetsplatte</word>
+      <meaning>sabit disk</meaning>
+      <example>Wie säubere ich meine Festplatte?</example>
+  </no> 
+  <no x="375">
+      <word>die Einführung</word>
+      <meaning>giriş</meaning>
+      <example></example>
+  </no>   
+  <no x="376">
+      <word>teilnehmen - teilgenommen</word>
+      <meaning>katılmak</meaning>
+      <example>Voraussetzung: Sie haben am Kurz I teilgenommen.</example>
+  </no> 
+  <no x="377">
+      <word>vermeiden</word>
+      <meaning>sakınmak, kaçınmak</meaning>
+      <example>Wie Sie Konflikte vermeiden und lösen können?</example>
+  </no>   
+  <no x="378">
+      <word>der Ärger</word>
+      <meaning>kızgınlık</meaning>
+      <example>~Arger mit dem Chef</example>
+  </no> 
+  <no x="379">
+      <word>der Streit</word>
+      <meaning>kavga</meaning>
+      <example>Streit mit den Kollegen</example>
+  </no>   
+  <no x="380">
+      <word>erfahren - hat erfahren</word>
+      <meaning>öğrenmek</meaning>
+      <example>das erfahren Sie in diesem Seminar.</example>
+  </no>   
+  <no x="381">
+      <word>konstruktive</word>
+      <meaning>Wie man schwierige Gespräch konstruktiv und effektiv führt.</meaning>
+      <example></example>
+  </no>   
+  <no x="382">
+      <word>führen - hat geführt</word>
+      <meaning>idare etmek</meaning>
+      <example>Wie man schwierige Gespräch konstruktiv und effektiv führt.</example>
+  </no>   
+  <no x="383">
+      <word>die Anmeldung</word>
+      <meaning>kaydolma</meaning>
+      <example></example>
+  </no>   
+  <no x="384">
+      <word>die Beratung</word>
+      <meaning>danışma</meaning>
+      <example></example>
+  </no>   
+  <no x="385">
+      <word>bluten - hat geblutet</word>
+      <meaning>kanamak</meaning>
+      <example>Ein Person ist verletzt und blutet stark.</example>
+  </no>   
+  <no x="386">
+      <word>schriftlich</word>
+      <meaning>yazılı</meaning>
+      <example>Bitte schriftliche Bewerbungen mitbringen!</example>
+  </no>   
+  <no x="387">
+      <word>noch nicht</word>
+      <meaning>henüz değil</meaning>
+      <example>Der Notarzt ist noch nicht da!</example>
+  </no>   
+  <no x="388">
+      <word>die Berufswahl</word>
+      <meaning>meslek seçimi</meaning>
+      <example>Was ierufswahl wichtig?</example>
+  </no>   
+  <no x="389">
+      <word>arbeitslos</word>
+      <meaning>işsiz</meaning>
+      <example>Schließlich will ich nicht arbeitslos werden.</example>
+  </no>   
+  <no x="390">
+      <word>wirklich</word>
+      <meaning>gerçekten</meaning>
+      <example>Das ist wirklich wichtig.</example>
+  </no>   
+  <no x="391">
       <word></word>
       <meaning></meaning>
-      <example></example>
-  </no>                                                          
+      <example></example>    
+  </no>
+  <no x="392">
+      <word></word>
+      <meaning></meaning>
+      <example></example>    
+  </no>
+  <no x="393">
+      <word></word>
+      <meaning></meaning>
+      <example></example>    
+  </no>
+  <no x="394">
+      <word></word>
+      <meaning></meaning>
+      <example></example>    
+  </no>      
 </language>
 
 <!--
- Ihre Partnerin schreibt, was sie verstanden hat.
- Der Bus zum Flughafen hat ein Rad verloren.
- Ihre Schwiegermutter hift bei der Hausarbeit.
- Das wäre nicht nötig gewesen.
- 
- Er ist sauer, weil er morgen nicht arbeiten möchte.
+Ihre Partnerin schreibt, was sie verstanden hat.
+Ihre Schwiegermutter hift bei der Hausarbeit.
+Das wäre nicht nötig gewesen.
+Das ist mir wichtig.
+
+********weil********
+Er ist sauer, weil er morgen nicht arbeiten möchte.
 Er ist glücklich, weil seine Freundin ihn abholt.
 Maria kommt nach Deutschland, weil sie Freunde in Deutschland hat.
 Warum ist er müde? Weil er die ganze Nacht nicht geschlafen hat.
 
+********wenn********
 Kurt macht das Taxifahren Spaß, wenn er interessante Fahrgäste hat.
 Susanne will nur stundenweise arbeiten, wenn das Baby ds ist.
 
+********dass********
 Ich bin richtig frog, dass du bei uns bist.
 Es tut mir leid, dass du Stress mit der Schule hast.
-Papa meint, daa ich faul bin.
+Papa meint, dass ich faul bin.
 Ich finde es nich so schlimm, dass du zwei fünften hast.
 Es ist aber wichtig, dass man eine gute Ausbildung hat.
+Ich finde, dass die Noten in der Schule nicht so wichtig sind.
+Sie wollte, dass sie einen Jog hat.
+Er erinnert uns, dass wir in der Schule frühzeitig kommen müssen.
+Sie arbeitet, dass sie nie eine Pause gemacht hat.
 -->
 
 
