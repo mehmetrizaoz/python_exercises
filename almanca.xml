@@ -357,7 +357,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>belirlemek</meaning>
       <example>Wer bestimmen die Zeit?</example>
   </no>  
-  <no x="69">
+  <no x="x">
       <word>unterstreichen - hat unterstrichen</word>
       <meaning>altını çizmek</meaning>
       <example>Schreiben Sie die unterstrichenen Sätze mit er - ihn - sie.</example>
@@ -412,7 +412,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>teslim etmek</meaning>
       <example>Du musst den Zimmerschlüssel an der Rezeption abgeben.</example>
   </no>
-  <no x="80">
+  <no x="x">
       <word>der Schield</word>
       <meaning>tabela</meaning>
       <example>Sehen Sie das Schield dort nicht?</example>
@@ -802,7 +802,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>değiştirmek</meaning>
       <example>Die Gruppen tauschen die Rollen.</example>
   </no>
-  <no x="157">
+  <no x="x">
       <word>raus - heraus - hinaus</word>
       <meaning>dışarı</meaning>
       <example>Ich komme raus.</example>
@@ -877,7 +877,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>beraber yaşamak</meaning>
       <example>Herr Wagner will nicht mehr mit seiner Frau zusammenleben.</example>
   </no>    
-  <no x="172">
+  <no x="x">
       <word>streiten - stritt - hat gestritten</word>
       <meaning>kavga etmek</meaning>
       <example>Die Wagners hat gestritten.</example>
@@ -885,7 +885,8 @@ jeweils ab dem 1.Samstag im Monat</example>
   <no x="173">
       <word>weitergehen - hat weitergegangen</word>
       <meaning>devam etmek, sürmek</meaning>
-      <example>So geht es immer weiter.</example>
+      <example>So geht es immer weiter.
+Und wie geht es dann weiter?</example>
   </no>    
   <no x="174">
       <word>wahnsinnig</word>
@@ -1588,7 +1589,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>son zamanlarda</meaning>
       <example></example>
   </no> 
-  <no x="310">
+  <no x="x">
       <word>sich interessieren - interessierte - hat interessiert</word>
       <meaning>ilgilenmek</meaning>
       <example>Wir Männer interessieren uns nicht für Gymnastik.</example>
@@ -1707,7 +1708,7 @@ jeweils ab dem 1.Samstag im Monat</example>
       <meaning>yollamak</meaning>
       <example>Könnten Sie mir bitte Informationsmaterial zusenden?</example>
   </no>
-  <no x="333">
+  <no x="x">
       <word>der Experte</word>
       <meaning>uzman</meaning>
       <example></example>
@@ -1939,7 +1940,7 @@ Erinneren Sie sich daran?
       <meaning>kızgınlık</meaning>
       <example>~Arger mit dem Chef</example>
   </no> 
-  <no x="379">
+  <no x="x">
       <word>der Streit</word>
       <meaning>kavga</meaning>
       <example>Streit mit den Kollegen</example>
@@ -2000,26 +2001,111 @@ Erinneren Sie sich daran?
       <example>Das ist wirklich wichtig.</example>
   </no>   
   <no x="391">
-      <word></word>
-      <meaning></meaning>
-      <example></example>    
+      <word>erfüllen - erfüllte- hat erfüllt</word>
+      <meaning>yerine getirmek</meaning>
+      <example>Aber so kann die Fee ja keinen Wunsch erfüllen.</example>    
   </no>
   <no x="392">
-      <word></word>
-      <meaning></meaning>
-      <example></example>    
+      <word>konkret</word>
+      <meaning>somut</meaning>
+      <example>Wie findet man abereine konkrete Antwort?</example>    
   </no>
   <no x="393">
-      <word></word>
-      <meaning></meaning>
-      <example></example>    
+      <word>der Konflikt</word>
+      <meaning>çatışma</meaning>
+      <example>Wie Sie Konflikte vermeiden und lösen können?</example>    
   </no>
   <no x="394">
+      <word>tätsachlich</word>
+      <meaning>sahiden</meaning>
+      <example>Und von hier Teilnehmern verändert dann tätsachlich einer innerhalb kurzer Zeit sein Leben.</example>    
+  </no> 
+  <no x="395">
+      <word>erfolgreich</word>
+      <meaning>başarılı</meaning>
+      <example>Ich bin nich erfolgreich.</example>    
+  </no> 
+  <no x="396">
+      <word>ehemalig</word>
+      <meaning>eski, önceki</meaning>
+      <example>Eine ehemalige Krankenschwester arbeitet als Kapitänin.</example>    
+  </no> 
+  <no x="397">
+      <word>aber so</word>
+      <meaning>ama bu şekilde</meaning>
+      <example>Aber so kann die Fee ja keinen Wunsch erfüllen.</example>    
+  </no> 
+  <no x="398">
+      <word>unzufrieden</word>
+      <meaning>memnun olmayan</meaning>
+      <example></example>    
+  </no> 
+  <no x="399">
+      <word>erleben - erlebte - hat erlebt</word>
+      <meaning>yaşamak</meaning>
+      <example>Sie konnten sich nicht vorstellen, dass sie gerade den Anfang einer neuen Zeit erleben.</example>    
+  </no> 
+  <no x="400">
+      <word>erarbeiten - erarbeitete - hat erarbeitet</word>
+      <meaning>çalışarak elde etmek</meaning>
+      <example>ab 1974: erarbeitet sie eigene Tanztheaterstücke</example>    
+  </no> 
+  <no x="401">
+      <word>der Lebensgefefährte</word>
+      <meaning>hayat arkadaşı</meaning>
+      <example>1980: stirbt ihr Lebensgefährte Rolf Borzik und sie begegnet Ronald Kay.</example>    
+  </no> 
+  <no x="402">
+      <word>ein schlechtes Gewissen haben</word>
+      <meaning>vicdan azabı duymak</meaning>
+      <example></example>    
+  </no> 
+  <no x="403">
+      <word>vergehen</word>
+      <meaning>geçip gitmek</meaning>
+      <example>Unglaublich wie schnell die Zeit vergeht.</example>    
+  </no> 
+  <no x="404">
+      <word>die Verabredung</word>
+      <meaning>randevu</meaning>
+      <example></example>    
+  </no> 
+  <no x="405">
+      <word>zuletzt</word>
+      <meaning>sonuncu defa, en son</meaning>
+      <example>Sie haben sich zuletzt an Tante Erikas 75. Geburstag gesehen.</example>    
+  </no> 
+  <no x="406">
+      <word>das Weihnachten</word>
+      <meaning>noel yortusu</meaning>
+      <example>Was schenken Ina und Jan ihrer Familie zu Weihnachten?</example>    
+  </no> 
+  <no x="407">
+      <word>die Kette</word>
+      <meaning>kolye</meaning>
+      <example>Ich schenke meiner Mutter eine Kette.</example>    
+  </no> 
+  <no x="408">
+      <word>der Schmuck</word>
+      <meaning>mücevher</meaning>
+      <example>Sie liebt Schmuck.</example>    
+  </no> 
+  <no x="409">
+      <word>erraten - erriet - hat erraten</word>
+      <meaning>bulmak, tahmin etmek</meaning>
+      <example>Wer als Erster alle Geschenke erraten hat, hat gewonnen.</example>    
+  </no> 
+  <no x="410">
       <word></word>
       <meaning></meaning>
       <example></example>    
-  </no>      
+  </no>   
+  
+  
+       
 </language>
+
+
 
 <!--
 Ihre Partnerin schreibt, was sie verstanden hat.
