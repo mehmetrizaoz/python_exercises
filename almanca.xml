@@ -1317,7 +1317,8 @@ Und wie geht es dann weiter?</example>
   <no x="258">
       <word>sonst</word>
       <meaning>başka</meaning>
-      <example>Ist denn sonst jemand aus der Abteilung da?</example>
+      <example>Ist denn sonst jemand aus der Abteilung da?
+Naja, sonst war alles toll.</example>
   </no>   
   <no x="x">
       <word>außer Haus</word>
@@ -2096,11 +2097,60 @@ Erinneren Sie sich daran?
       <example>Wer als Erster alle Geschenke erraten hat, hat gewonnen.</example>    
   </no> 
   <no x="410">
+      <word>das Brautkleid</word>
+      <meaning>gelinlik</meaning>
+      <example></example>    
+  </no>   
+  <no x="411">
+      <word>der Bräutigam</word>
+      <meaning>damat</meaning>
+      <example></example>    
+  </no>   
+  <no x="412">
+      <word>der Abschnitt</word>
+      <meaning>bölüm</meaning>
+      <example>Lesen Sie E-Mail und ordnen Sie die Abschnitte den Fotos zu.</example>    
+  </no>   
+  <no x="413">
+      <word>erst</word>
+      <meaning>ancak</meaning>
+      <example>Ich antworte erst jetzt, weil ich die letzten zwei Tage nicht zu Hause war.</example>    
+  </no>   
+  <no x="414">
+      <word>kirchliche Trauung</word>
+      <meaning>kilise nikahı</meaning>
+      <example></example>    
+  </no>   
+  <no x="415">
+      <word>anschneiden - schnitt an - hat angeschnitten</word>
+      <meaning>kesmek</meaning>
+      <example>Eine halbe Stunde später nehmen die beiden das Messer und schneiden die Hochzeitstorte an.</example>    
+  </no>             
+  <no x="416">
+      <word>die Torte</word>
+      <meaning>yaş pasta</meaning>
+      <example></example>    
+  </no>   
+  <no x="417">
+      <word>kaputtgehen</word>
+      <meaning>yırtılmak</meaning>
+      <example>Beim Brautwalzer ist das Brautkleid kaputtgegangen.</example>    
+  </no>   
+  <no x="418">
+      <word>das Fest</word>
+      <meaning>parti</meaning>
+      <example>Das Fest hat Daniela sehr gut gefallen.</example>    
+  </no>   
+  <no x="419">
+      <word>sich unterhalten</word>
+      <meaning>sohbet etmek</meaning>
+      <example>Wir können uns unterhalten und haben viel Spaß.</example>    
+  </no>   
+  <no x="420">
       <word></word>
       <meaning></meaning>
       <example></example>    
-  </no>   
-  
+  </no>             
   
        
 </language>
