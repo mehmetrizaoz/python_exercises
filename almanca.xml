@@ -2147,11 +2147,25 @@ Erinneren Sie sich daran?
       <example>Wir können uns unterhalten und haben viel Spaß.</example>    
   </no>   
   <no x="420">
+      <word>die Hauptsache</word>
+      <meaning>asıl konu</meaning>
+      <example></example>    
+  </no>             
+  <no x="421">
+      <word>der Aufzug</word>
+      <meaning>1-asansör, 2-geçiş</meaning>
+      <example>Er stellt sein Wagen immer vor dem Aufzug.</example>    
+  </no>  
+  <no x="422">
+      <word>einrichten - hat eingerichtet</word>
+      <meaning>döşemek</meaning>
+      <example></example>    
+  </no>  
+  <no x="423">
       <word></word>
       <meaning></meaning>
       <example></example>    
-  </no>             
-  
+  </no>        
        
 </language>
 
