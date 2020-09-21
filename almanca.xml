@@ -2162,11 +2162,55 @@ Erinneren Sie sich daran?
       <example></example>    
   </no>  
   <no x="423">
+      <word>unternehmen</word>
+      <meaning>yapmak</meaning>
+      <example>etwas unternehmen</example>    
+  </no>        
+  <no x="424">
+      <word>betreuen</word>
+      <meaning>e bakmak</meaning>
+      <example>Kinder betreuen</example>    
+  </no> 
+  <no x="425">
+      <word>austragen</word>
+      <meaning>dağıtmak</meaning>
+      <example>Zeitungen austragen</example>    
+  </no> 
+  <no x="426">
+      <word>das Gesetz</word>
+      <meaning>yasa</meaning>
+      <example>Das Gesetz sagt ....</example>    
+  </no> 
+  <no x="427">
+      <word>gelten</word>
+      <meaning>geçmek</meaning>
+      <example>FürKinder bis zum 15. Geburstag gilt:</example>    
+  </no>   
+  <no x="428">
+      <word>die Tätigkeit</word>
+      <meaning>faaliyet</meaning>
+      <example></example>    
+  </no>   
+  <no x="429">
+      <word>ausüben</word>
+      <meaning>icra etmek</meaning>
+      <example>Sie dürfen nur leichte Tätigkeiten ausüben.</example>    
+  </no>   
+  <no x="430">
+      <word>wöchentlich</word>
+      <meaning>haftalık</meaning>
+      <example>40 Stunden wöchentlich arbeiten</example>    
+  </no>   
+  <no x="431">
+      <word>die Schule bezuchen</word>
+      <meaning>okula gitmek</meaning>
+      <example></example>    
+  </no>   
+  <no x="432">
       <word></word>
       <meaning></meaning>
       <example></example>    
-  </no>        
-       
+  </no>                        
 </language>
 
 
