@@ -1125,7 +1125,7 @@ Und wie geht es dann weiter?</example>
       <example>Das ist ganz Normal. Bei uns ist das anders.</example>
   </no>     
   <no x="220">
-      <word>übrigens</word>
+      <word>gübrigens</word>
       <meaning>ayrıca</meaning>
       <example>Übrigens: Die Nudeln habe ich selbst gemacht.</example>
   </no>
@@ -2207,10 +2207,20 @@ Erinneren Sie sich daran?
       <example></example>    
   </no>   
   <no x="432">
+      <word>günstig</word>
+      <meaning>uygun</meaning>
+      <example>Wo isst man am günstigsten?</example>    
+  </no> 
+  <no x="433">
       <word></word>
       <meaning></meaning>
       <example></example>    
-  </no>                        
+  </no> 
+  <no x="434">
+      <word></word>
+      <meaning></meaning>
+      <example></example>    
+  </no>                            
 </language>
 
 
